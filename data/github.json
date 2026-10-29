@@ -34,15 +34,15 @@
    15,
    7
   ],
-  "smart-contract": [
-   15,
-   251655,
-   123025
-  ],
   "SIMD-AI-Accelerator": [
    8,
    6211,
    13
+  ],
+  "smart-contract": [
+   15,
+   251655,
+   123025
   ]
  }
 }
