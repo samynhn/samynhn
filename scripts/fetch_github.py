@@ -61,7 +61,7 @@ def main():
     per_repo, commits, add, dele = {}, 0, 0, 0
     for r in repos:  # forks too: only your own commits are counted
         stats = get(f"/repos/{user}/{r['name']}/stats/contributors")
-        if stats is None:  # GitHub still computing: reuse last known numbers for this repo
+        if not stats:  # still computing (or empty cache on GitHub's side): reuse last known numbers
             old = prev.get("per_repo", {}).get(r["name"])
             if old:
                 per_repo[r["name"]] = old
