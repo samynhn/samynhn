@@ -1,70 +1,36 @@
-<h1 align="center"> Samynhn! Here 👦 </h1>
+<a href="https://github.com/samynhn">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
+    <img alt="samynhn@github: NYCU Computer Science master student" src="./assets/profile-light.svg" width="100%">
+  </picture>
+</a>
+
+<br/>
 
 <p align="center">
-    <img src="https://img.shields.io/github/followers/onevcat?style=for-the-badge&logo=github&color=42b883" alt="">
-    <img src="https://shields-io-visitor-counter.herokuapp.com/badge?page=onevcat.ricky9667&style=for-the-badge&logo=github&color=42b883" alt="">
-</p>
-
-
-
-
-
-<h2 align="center"> 🖊 About me </h2>
-
-- 🚩 [NYCU](https://www.nycu.edu.tw/nycu/ch/index)-CS
-- 💻 a graduate student studying Computer Science & Machine Learning 🤖
-- 🌱 working on my music work and [programming project](https://github.com/samynhn)
-- ❤️ Interests :  Coding 💻 , Music 🎧 , Basketball 🏀 , Girls 👩
-
-<br />
-<h2 align="center"> 📊 Github Stats </h2>
-<p align="center">
-    <img height=160 src="https://github-readme-stats.vercel.app/api?username=samynhn&show_icons=true&theme=onedark">
-    <img height=160 src="https://github-readme-stats.vercel.app/api/top-langs/?username=samynhn&langs_count=10&layout=compact&theme=onedark">
-    <img height=160 src="https://github-readme-streak-stats.herokuapp.com/?user=samynhn&theme=onedark">
-    
-
+  <img alt="AI coding activity: Claude, Codex, Cursor and OpenRouter usage" src="./assets/ai-usage-card.svg" width="100%">
 </p>
 
 <p align="center">
-    <img height200 src="https://spotify-recently-played-readme.vercel.app/api?user=jgdj2upznlrv212z84ddstl78&count=10&width=1000">
+  <img alt="Paper library from alphaXiv" src="./assets/papers-card.svg" width="100%">
 </p>
 
-<br />
+<details>
+<summary>Papers on the cards above</summary>
 
-<!-- <h2 align="center"> 🛠 Language and tools </h2>
-<p align="center">
-    <img width="36px" src="https://icongr.am/devicon/c-original.svg?size=36&color=currentColor" alt="C" /> 
-    <img width="36px" src="https://icongr.am/devicon/cplusplus-original.svg?size=36&color=currentColor" alt="C++"> 
-    <img width="36px" src="https://icongr.am/devicon/html5-original.svg?size=36&color=currentColor" alt="HTML" /> 
-    <img width="36px" src="https://icongr.am/devicon/css3-original.svg?size=36&color=currentColor" alt="CSS" /> 
-    <img width="36px" src="https://icongr.am/devicon/javascript-original.svg?size=36&color=currentColor" alt="Javascript" /> 
-    <img width="36px" src="https://icongr.am/devicon/typescript-original.svg?size=36&color=currentColor" alt="Typescript" /> 
-    <img width="36px" src="https://icongr.am/devicon/bootstrap-plain.svg?size=36&color=6f42c1" alt="Bootstrap" /> 
-    <img width="36px" src="https://icongr.am/devicon/git-original.svg?size=36&color=currentColor" alt="Git" /> 
-    <img width="36px" src="https://icongr.am/devicon/python-original.svg?size=36&color=currentColor" alt="Python" /> 
-    <img width="36px" src="https://icongr.am/devicon/vuejs-original.svg?size=36&color=currentColor" alt="Vue.js" /> 
-    <img width="36px" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailwindCSS" />
-    <img width="36px" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" /> 
-    <img width="36px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" /> 
-    <img width="36px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" /> 
-    <img width="36px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" /> 
-    <img width="36px" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="Java" /> 
-    <img width="36px" src="https://icongr.am/devicon/android-original.svg?size=36&color=currentColor" alt="Android" /> 
-    <img width="36px" src="https://icongr.am/devicon/cucumber-plain.svg?size=36&color=48db52" alt="Cucumber" /> 
-    <img width="36px" src="https://icongr.am/devicon/github-original.svg?size=36&color=currentColor" alt="Github" /> 
-    <img width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code" /> 
-    <img width="36px" src="https://icongr.am/devicon/linux-original.svg?size=36&color=currentColor" alt="Linux" /> 
-    <img width="36px" src="https://icongr.am/devicon/ubuntu-plain.svg?size=128&color=ff6a00" alt="Ubuntu" /> 
-    <img width="36px" src="https://icongr.am/devicon/vim-original.svg?size=36&color=currentColor" alt="Vim" /> 
-    <img width="36px" src="https://icongr.am/devicon/yarn-original.svg?size=36&color=currentColor" alt="Yarn" /> 
-</p>
+<!-- PAPERS:START (rewritten daily by the workflow) -->
+**Robotics** · [ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning](https://www.alphaxiv.org/abs/2610.37666) · [Agentic World Action Models](https://www.alphaxiv.org/abs/2610.30136) · [De-Diffusing WAMs: Action-Sufficient Direct Prediction for Robot Control](https://www.alphaxiv.org/abs/2610.28122)
 
- -->
-<br />
+**Loop** · [BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing](https://www.alphaxiv.org/abs/2610.31633) · [LiFT: Loop Flow Transformers](https://www.alphaxiv.org/abs/2610.05538) · [The Surprising Effectiveness of Shared Memory in Looped Transformers](https://www.alphaxiv.org/abs/2610.02383)
 
+**Agent** · [Are Self-Evolving Agents Continual Learners?](https://www.alphaxiv.org/abs/2610.25858) · [Hybrid Reasoning Agents](https://www.alphaxiv.org/abs/2610.18861) · [RRSI: Regularized Recursive Self-Improvement of Agent Harnesses](https://www.alphaxiv.org/abs/2609.24972)
 
+**Feature Caching** · [PoSTCache: From Forecasting to Postdictive Smoothing for Revisable Diffusion Caching](https://www.alphaxiv.org/abs/2610.25664) · [SoftCache: Adaptive Step Size Caching for Diffusion Transformers](https://www.alphaxiv.org/abs/2610.22369) · [Velocity Scaling in Flow Matching](https://www.alphaxiv.org/abs/2610.10823)
 
+**Attention** · [Copy-Paste Language Models](https://www.alphaxiv.org/abs/2610.19247) · [Virtual Head Attention](https://www.alphaxiv.org/abs/2610.17959) · [Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling](https://www.alphaxiv.org/abs/2609.36529)
 
-<br />
+**KV Cache** · [TempoKV: Predictive KV Cache Quantization for Autoregressive Video Generation](https://www.alphaxiv.org/abs/2610.15324) · [ReplaySSM: Cache SSM Inputs, Not State](https://www.alphaxiv.org/abs/2610.13778) · [TriAttention: Efficient Long Reasoning with Trigonometric KV Compression](https://www.alphaxiv.org/abs/2604.04921)
 
+<!-- PAPERS:END -->
+
+</details>

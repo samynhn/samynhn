@@ -1,0 +1,468 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="960" height="870" viewBox="0 0 960 870">
+<style>
+  .bg{fill:#ffffff;stroke:#d0d7de}
+  .fg{fill:#1f2328} .mut{fill:#656d76} .faint{fill:#8c959f}
+  .rule{stroke:#d8dee4}
+  @media (prefers-color-scheme: dark){
+    .bg{fill:#0d1117;stroke:#30363d}
+    .fg{fill:#e6edf3} .mut{fill:#9198a1} .faint{fill:#6e7681}
+    .rule{stroke:#21262d}
+  }
+  text{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Inter',Helvetica,Arial,sans-serif}
+  .num{font-family:ui-monospace,'SF Mono','JetBrains Mono',Menlo,Consolas,monospace;font-variant-numeric:tabular-nums}
+  .title{font-size:20px;font-weight:600;letter-spacing:-.2px}
+  .cap{font-size:10.5px;font-weight:600;letter-spacing:.9px}
+  .kpi{font-size:22px;font-weight:500}
+  .s{font-size:12px} .xs{font-size:11px}
+  .fname{font-size:18px;font-weight:600;letter-spacing:-.2px;fill:#f5f5f7}
+  .fcount{font-size:36px;font-weight:600;letter-spacing:-1px;fill:#f5f5f7}
+  .funit{font-size:15px;fill:#a1a1aa}
+  .flab{font-size:12px;fill:#a1a1aa}
+  .fdate{font-size:14px;font-weight:600;fill:#f5f5f7}
+  .pill{font-size:12px;font-weight:600}
+  /* PDFs slide up out of the folder and settle */
+  .pp{animation:pp 1s cubic-bezier(.2,.8,.2,1) both}
+  @keyframes pp{0%{transform:translateY(70px)}60%{transform:translateY(-9px)}82%{transform:translateY(3px)}100%{transform:translateY(0)}}
+  /* count-up: one text per frame, final value hidden until the frames finish */
+  .cf{opacity:0;animation-name:cf;animation-timing-function:step-end}
+  @keyframes cf{from,to{opacity:1}}
+  .cfin{animation-name:cfin;animation-timing-function:step-end}
+  @keyframes cfin{from,to{opacity:0}}
+  @media (prefers-reduced-motion: reduce){*{animation:none !important}}
+</style><defs><filter id="lift" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity=".22"/></filter><filter id="paper" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000" flood-opacity=".45"/></filter><filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter><pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="1.2" height="1.2" fill="#000"/><rect x="3" y="3" width="1.2" height="1.2" fill="#000"/></pattern><linearGradient id="front" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#232326"/><stop offset="1" stop-color="#151517"/></linearGradient><clipPath id="f0-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f0-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C6BFF" stop-opacity=".95"/><stop offset=".55" stop-color="#7C6BFF" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f0-2610_37666"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f0-2610_30136"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f0-2610_28122"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f1-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f1-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E5534B" stop-opacity=".95"/><stop offset=".55" stop-color="#E5534B" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f1-2610_31633"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f1-2610_05538"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f1-2610_02383"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f2-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f2-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0883E" stop-opacity=".95"/><stop offset=".55" stop-color="#F0883E" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f2-2610_25858"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f2-2610_18861"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f2-2609_24972"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f3-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f3-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2DA44E" stop-opacity=".95"/><stop offset=".55" stop-color="#2DA44E" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f3-2610_25664"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f3-2610_22369"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f3-2610_10823"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f4-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f4-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8DB600" stop-opacity=".95"/><stop offset=".55" stop-color="#8DB600" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f4-2610_19247"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f4-2610_17959"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f4-2609_36529"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f5-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f5-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4E79F2" stop-opacity=".95"/><stop offset=".55" stop-color="#4E79F2" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f5-2610_15324"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f5-2610_13778"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f5-2604_04921"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath></defs><rect class="bg" x=".5" y=".5" width="959" height="869" rx="6"/><text class="fg title" x="32.0" y="46.0" text-anchor="start" >Paper Library</text>
+<text class="mut cap" x="32.0" y="68.0" text-anchor="start" >ALPHAXIV  ·  6 MOST RECENTLY UPDATED FOLDERS  ·  3 NEWEST PAPERS EACH</text>
+<text class="mut s" x="928.0" y="46.0" text-anchor="end" >198 papers saved</text>
+<text class="faint xs" x="928.0" y="66.0" text-anchor="end" >Sorted by publication date</text>
+<line class="rule" x1="32.0" y1="92.0" x2="928.0" y2="92.0" stroke-width="1"/>
+<text class="mut cap" x="32.0" y="118.0" text-anchor="start" >SAVED PAPERS</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">28</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">54</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">76</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">97</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">114</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">130</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">144</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">155</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">165</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">173</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">180</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">185</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">190</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">193</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">195</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">196</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">197</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">198</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">198</text>
+<text x="32.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">198</text>
+<line class="rule" x1="181.3" y1="104.0" x2="181.3" y2="148.0" stroke-width="1"/>
+<text class="mut cap" x="197.3" y="118.0" text-anchor="start" >FOLDERS</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">2</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">3</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">5</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">6</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">7</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">8</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">9</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">9</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">10</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">10</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">11</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">11</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">11</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">12</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">12</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">12</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">12</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">12</text>
+<text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">12</text>
+<text x="197.3" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">12</text>
+<line class="rule" x1="330.7" y1="104.0" x2="330.7" y2="148.0" stroke-width="1"/>
+<text class="mut cap" x="346.7" y="118.0" text-anchor="start" >PUBLISHED · 2026</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">15</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">28</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">40</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">51</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">60</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">68</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">75</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">82</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">87</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">91</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">95</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">97</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">100</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">101</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">102</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">103</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">104</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">104</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">104</text>
+<text x="346.7" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">104</text>
+<text class="faint xs" x="393.2" y="144.0" text-anchor="start" >53%</text>
+<line class="rule" x1="480.0" y1="104.0" x2="480.0" y2="148.0" stroke-width="1"/>
+<text class="mut cap" x="496.0" y="118.0" text-anchor="start" >PUBLISHED · 30D</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">4</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">8</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">12</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">15</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">17</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">20</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">22</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">24</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">25</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">26</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">27</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">28</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">29</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">29</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">30</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">30</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">30</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">30</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">30</text>
+<text x="496.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">30</text>
+<line class="rule" x1="629.3" y1="104.0" x2="629.3" y2="148.0" stroke-width="1"/>
+<text class="mut cap" x="645.3" y="118.0" text-anchor="start" >HIGHLIGHTED</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">0</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">1</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">1</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">1</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">2</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">2</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">2</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">2</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">3</text>
+<text class="faint xs" x="664.8" y="144.0" text-anchor="start" >papers</text>
+<line class="rule" x1="778.7" y1="104.0" x2="778.7" y2="148.0" stroke-width="1"/>
+<text class="mut cap" x="794.7" y="118.0" text-anchor="start" >LARGEST FOLDER</text>
+<text class="fg kpi" x="794.7" y="144.0" text-anchor="start" >Agent</text>
+<text class="faint xs" x="863.2" y="144.0" text-anchor="start" >44</text>
+<line class="rule" x1="32.0" y1="162.0" x2="928.0" y2="162.0" stroke-width="1"/>
+<g transform="translate(32.0,196.0)">
+<rect width="282.7" height="286" rx="27" fill="#050506" filter="url(#lift)"/>
+<g clip-path="url(#f0-clip)">
+<rect x="0" y="0" width="282.7" height="286" fill="#0b0b0d"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#f0-sky)"/>
+<ellipse cx="84.8" cy="40" rx="118.7" ry="26" fill="#ffffff" opacity=".22" filter="url(#soft)" transform="rotate(-14 84.8 40)"/>
+<ellipse cx="197.9" cy="96" rx="107.4" ry="16" fill="#7C6BFF" opacity=".9" filter="url(#soft)" transform="rotate(-8 197.9 96)"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#grain)" opacity=".35"/>
+<g class="pp" style="animation-delay:260ms">
+<g transform="rotate(-9 98.3 131.0)" filter="url(#paper)">
+<rect x="52.3" y="66" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a18053-c2ef-79bc-b214-5ef422144c39.png" x="52.3" y="66" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f0-2610_37666)"/>
+</g></g>
+<g class="pp" style="animation-delay:370ms">
+<g transform="rotate(8 218.3 133.0)" filter="url(#paper)">
+<rect x="172.3" y="68" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a16168-ae89-7bff-9c9d-083347114b3f.png" x="172.3" y="68" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f0-2610_30136)"/>
+</g></g>
+<g class="pp" style="animation-delay:150ms">
+<g transform="rotate(0 158.3 121.0)" filter="url(#paper)">
+<rect x="112.3" y="56" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a15c71-e85b-7ec5-a416-ce57bcae9325.png" x="112.3" y="56" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f0-2610_28122)"/>
+</g></g>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="url(#front)"/>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+</g>
+<rect x="140.1" y="20" width="122.6" height="28" rx="14" fill="#7C6BFF" fill-opacity=".22" stroke="#7C6BFF" stroke-opacity=".55"/>
+<text class="pill" x="201.4" y="38.5" text-anchor="middle" fill="#ffffff">16% of library</text>
+<text class="fname" x="26" y="162">Robotics</text>
+<text x="26" y="258" class=" cf" style="animation-delay:100ms;animation-duration:70ms"><tspan class="fcount num">5</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:170ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:240ms;animation-duration:70ms"><tspan class="fcount num">13</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:310ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:380ms;animation-duration:70ms"><tspan class="fcount num">19</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:450ms;animation-duration:70ms"><tspan class="fcount num">22</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:520ms;animation-duration:70ms"><tspan class="fcount num">24</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:590ms;animation-duration:70ms"><tspan class="fcount num">26</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:660ms;animation-duration:70ms"><tspan class="fcount num">28</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:730ms;animation-duration:70ms"><tspan class="fcount num">29</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:800ms;animation-duration:70ms"><tspan class="fcount num">30</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:870ms;animation-duration:70ms"><tspan class="fcount num">31</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:940ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1010ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1080ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1150ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1220ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1290ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1360ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cfin" style="animation-duration:1430ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text class="flab" x="256.7" y="236" text-anchor="end">Latest paper</text>
+<text class="fdate" x="256.7" y="257" text-anchor="end">Oct 27, 2026</text>
+</g>
+<g transform="translate(338.7,196.0)">
+<rect width="282.7" height="286" rx="27" fill="#050506" filter="url(#lift)"/>
+<g clip-path="url(#f1-clip)">
+<rect x="0" y="0" width="282.7" height="286" fill="#0b0b0d"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#f1-sky)"/>
+<ellipse cx="84.8" cy="40" rx="118.7" ry="26" fill="#ffffff" opacity=".22" filter="url(#soft)" transform="rotate(-14 84.8 40)"/>
+<ellipse cx="197.9" cy="96" rx="107.4" ry="16" fill="#E5534B" opacity=".9" filter="url(#soft)" transform="rotate(-8 197.9 96)"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#grain)" opacity=".35"/>
+<g class="pp" style="animation-delay:380ms">
+<g transform="rotate(-9 98.3 131.0)" filter="url(#paper)">
+<rect x="52.3" y="66" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a166ac-2403-7935-b836-444f2ed086c0.png" x="52.3" y="66" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f1-2610_31633)"/>
+</g></g>
+<g class="pp" style="animation-delay:490ms">
+<g transform="rotate(8 218.3 133.0)" filter="url(#paper)">
+<rect x="172.3" y="68" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a10fce-9158-7161-a0dd-6ddd9f330a2c.png" x="172.3" y="68" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f1-2610_05538)"/>
+</g></g>
+<g class="pp" style="animation-delay:270ms">
+<g transform="rotate(0 158.3 121.0)" filter="url(#paper)">
+<rect x="112.3" y="56" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a10a04-e5ce-7e64-a7d0-309e2792d6da.png" x="112.3" y="56" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f1-2610_02383)"/>
+</g></g>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="url(#front)"/>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+</g>
+<rect x="147.0" y="20" width="115.7" height="28" rx="14" fill="#E5534B" fill-opacity=".22" stroke="#E5534B" stroke-opacity=".55"/>
+<text class="pill" x="204.8" y="38.5" text-anchor="middle" fill="#ffffff">8% of library</text>
+<text class="fname" x="26" y="162">Loop</text>
+<text x="26" y="258" class=" cf" style="animation-delay:180ms;animation-duration:70ms"><tspan class="fcount num">2</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:250ms;animation-duration:70ms"><tspan class="fcount num">4</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:320ms;animation-duration:70ms"><tspan class="fcount num">6</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:390ms;animation-duration:70ms"><tspan class="fcount num">8</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:460ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:530ms;animation-duration:70ms"><tspan class="fcount num">11</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:600ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:670ms;animation-duration:70ms"><tspan class="fcount num">13</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:740ms;animation-duration:70ms"><tspan class="fcount num">13</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:810ms;animation-duration:70ms"><tspan class="fcount num">14</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:880ms;animation-duration:70ms"><tspan class="fcount num">15</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:950ms;animation-duration:70ms"><tspan class="fcount num">15</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1020ms;animation-duration:70ms"><tspan class="fcount num">15</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1090ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1160ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1230ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1300ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1370ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1440ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cfin" style="animation-duration:1510ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text class="flab" x="256.7" y="236" text-anchor="end">Latest paper</text>
+<text class="fdate" x="256.7" y="257" text-anchor="end">Oct 22, 2026</text>
+</g>
+<g transform="translate(645.3,196.0)">
+<rect width="282.7" height="286" rx="27" fill="#050506" filter="url(#lift)"/>
+<g clip-path="url(#f2-clip)">
+<rect x="0" y="0" width="282.7" height="286" fill="#0b0b0d"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#f2-sky)"/>
+<ellipse cx="84.8" cy="40" rx="118.7" ry="26" fill="#ffffff" opacity=".22" filter="url(#soft)" transform="rotate(-14 84.8 40)"/>
+<ellipse cx="197.9" cy="96" rx="107.4" ry="16" fill="#F0883E" opacity=".9" filter="url(#soft)" transform="rotate(-8 197.9 96)"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#grain)" opacity=".35"/>
+<g class="pp" style="animation-delay:500ms">
+<g transform="rotate(-9 98.3 131.0)" filter="url(#paper)">
+<rect x="52.3" y="66" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a1571f-ed58-7071-9120-3e4bb7e3d15e.png" x="52.3" y="66" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f2-2610_25858)"/>
+</g></g>
+<g class="pp" style="animation-delay:610ms">
+<g transform="rotate(8 218.3 133.0)" filter="url(#paper)">
+<rect x="172.3" y="68" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a138dc-8d81-767c-84bb-1cb33e8a3812.png" x="172.3" y="68" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f2-2610_18861)"/>
+</g></g>
+<g class="pp" style="animation-delay:390ms">
+<g transform="rotate(0 158.3 121.0)" filter="url(#paper)">
+<rect x="112.3" y="56" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a10ed5-8966-7f66-979e-40e415acf385.png" x="112.3" y="56" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f2-2609_24972)"/>
+</g></g>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="url(#front)"/>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+</g>
+<rect x="140.1" y="20" width="122.6" height="28" rx="14" fill="#F0883E" fill-opacity=".22" stroke="#F0883E" stroke-opacity=".55"/>
+<text class="pill" x="201.4" y="38.5" text-anchor="middle" fill="#ffffff">22% of library</text>
+<text class="fname" x="26" y="162">Agent</text>
+<text x="26" y="258" class=" cf" style="animation-delay:260ms;animation-duration:70ms"><tspan class="fcount num">6</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:330ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:400ms;animation-duration:70ms"><tspan class="fcount num">17</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:470ms;animation-duration:70ms"><tspan class="fcount num">21</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:540ms;animation-duration:70ms"><tspan class="fcount num">25</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:610ms;animation-duration:70ms"><tspan class="fcount num">29</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:680ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:750ms;animation-duration:70ms"><tspan class="fcount num">34</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:820ms;animation-duration:70ms"><tspan class="fcount num">37</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:890ms;animation-duration:70ms"><tspan class="fcount num">38</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:960ms;animation-duration:70ms"><tspan class="fcount num">40</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1030ms;animation-duration:70ms"><tspan class="fcount num">41</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1100ms;animation-duration:70ms"><tspan class="fcount num">42</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1170ms;animation-duration:70ms"><tspan class="fcount num">43</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1240ms;animation-duration:70ms"><tspan class="fcount num">43</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1310ms;animation-duration:70ms"><tspan class="fcount num">44</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1380ms;animation-duration:70ms"><tspan class="fcount num">44</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1450ms;animation-duration:70ms"><tspan class="fcount num">44</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1520ms;animation-duration:70ms"><tspan class="fcount num">44</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cfin" style="animation-duration:1590ms"><tspan class="fcount num">44</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text class="flab" x="256.7" y="236" text-anchor="end">Latest paper</text>
+<text class="fdate" x="256.7" y="257" text-anchor="end">Oct 19, 2026</text>
+</g>
+<g transform="translate(32.0,506.0)">
+<rect width="282.7" height="286" rx="27" fill="#050506" filter="url(#lift)"/>
+<g clip-path="url(#f3-clip)">
+<rect x="0" y="0" width="282.7" height="286" fill="#0b0b0d"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#f3-sky)"/>
+<ellipse cx="84.8" cy="40" rx="118.7" ry="26" fill="#ffffff" opacity=".22" filter="url(#soft)" transform="rotate(-14 84.8 40)"/>
+<ellipse cx="197.9" cy="96" rx="107.4" ry="16" fill="#2DA44E" opacity=".9" filter="url(#soft)" transform="rotate(-8 197.9 96)"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#grain)" opacity=".35"/>
+<g class="pp" style="animation-delay:620ms">
+<g transform="rotate(-9 98.3 131.0)" filter="url(#paper)">
+<rect x="52.3" y="66" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a157e6-07a6-7ab7-a1fc-9d1f35008f92.png" x="52.3" y="66" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f3-2610_25664)"/>
+</g></g>
+<g class="pp" style="animation-delay:730ms">
+<g transform="rotate(8 218.3 133.0)" filter="url(#paper)">
+<rect x="172.3" y="68" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a14260-792e-79ba-a3dc-9c7303bc2d47.png" x="172.3" y="68" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f3-2610_22369)"/>
+</g></g>
+<g class="pp" style="animation-delay:510ms">
+<g transform="rotate(0 158.3 121.0)" filter="url(#paper)">
+<rect x="112.3" y="56" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a11eaf-316d-778f-b30e-7ad85beec22b.png" x="112.3" y="56" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f3-2610_10823)"/>
+</g></g>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="url(#front)"/>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+</g>
+<rect x="140.1" y="20" width="122.6" height="28" rx="14" fill="#2DA44E" fill-opacity=".22" stroke="#2DA44E" stroke-opacity=".55"/>
+<text class="pill" x="201.4" y="38.5" text-anchor="middle" fill="#ffffff">16% of library</text>
+<text class="fname" x="26" y="162">Feature</text>
+<text class="fname" x="26" y="185">Caching</text>
+<text x="26" y="258" class=" cf" style="animation-delay:340ms;animation-duration:70ms"><tspan class="fcount num">5</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:410ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:480ms;animation-duration:70ms"><tspan class="fcount num">13</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:550ms;animation-duration:70ms"><tspan class="fcount num">16</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:620ms;animation-duration:70ms"><tspan class="fcount num">19</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:690ms;animation-duration:70ms"><tspan class="fcount num">22</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:760ms;animation-duration:70ms"><tspan class="fcount num">24</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:830ms;animation-duration:70ms"><tspan class="fcount num">26</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:900ms;animation-duration:70ms"><tspan class="fcount num">28</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:970ms;animation-duration:70ms"><tspan class="fcount num">29</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1040ms;animation-duration:70ms"><tspan class="fcount num">30</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1110ms;animation-duration:70ms"><tspan class="fcount num">31</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1180ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1250ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1320ms;animation-duration:70ms"><tspan class="fcount num">32</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1390ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1460ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1530ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1600ms;animation-duration:70ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cfin" style="animation-duration:1670ms"><tspan class="fcount num">33</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text class="flab" x="256.7" y="236" text-anchor="end">Latest paper</text>
+<text class="fdate" x="256.7" y="257" text-anchor="end">Oct 19, 2026</text>
+</g>
+<g transform="translate(338.7,506.0)">
+<rect width="282.7" height="286" rx="27" fill="#050506" filter="url(#lift)"/>
+<g clip-path="url(#f4-clip)">
+<rect x="0" y="0" width="282.7" height="286" fill="#0b0b0d"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#f4-sky)"/>
+<ellipse cx="84.8" cy="40" rx="118.7" ry="26" fill="#ffffff" opacity=".22" filter="url(#soft)" transform="rotate(-14 84.8 40)"/>
+<ellipse cx="197.9" cy="96" rx="107.4" ry="16" fill="#8DB600" opacity=".9" filter="url(#soft)" transform="rotate(-8 197.9 96)"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#grain)" opacity=".35"/>
+<g class="pp" style="animation-delay:740ms">
+<g transform="rotate(-9 98.3 131.0)" filter="url(#paper)">
+<rect x="52.3" y="66" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a13d4a-bca5-7f8e-87a2-2263c15a6b43.png" x="52.3" y="66" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f4-2610_19247)"/>
+</g></g>
+<g class="pp" style="animation-delay:850ms">
+<g transform="rotate(8 218.3 133.0)" filter="url(#paper)">
+<rect x="172.3" y="68" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a13942-954d-7112-a1f1-5aca202016d0.png" x="172.3" y="68" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f4-2610_17959)"/>
+</g></g>
+<g class="pp" style="animation-delay:630ms">
+<g transform="rotate(0 158.3 121.0)" filter="url(#paper)">
+<rect x="112.3" y="56" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a0effc-8fc2-7a40-92d6-8efe9f2abd47.png" x="112.3" y="56" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f4-2609_36529)"/>
+</g></g>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="url(#front)"/>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+</g>
+<rect x="147.0" y="20" width="115.7" height="28" rx="14" fill="#8DB600" fill-opacity=".22" stroke="#8DB600" stroke-opacity=".55"/>
+<text class="pill" x="204.8" y="38.5" text-anchor="middle" fill="#ffffff">4% of library</text>
+<text class="fname" x="26" y="162">Attention</text>
+<text x="26" y="258" class=" cf" style="animation-delay:420ms;animation-duration:70ms"><tspan class="fcount num">1</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:490ms;animation-duration:70ms"><tspan class="fcount num">2</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:560ms;animation-duration:70ms"><tspan class="fcount num">3</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:630ms;animation-duration:70ms"><tspan class="fcount num">4</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:700ms;animation-duration:70ms"><tspan class="fcount num">5</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:770ms;animation-duration:70ms"><tspan class="fcount num">6</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:840ms;animation-duration:70ms"><tspan class="fcount num">7</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:910ms;animation-duration:70ms"><tspan class="fcount num">7</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:980ms;animation-duration:70ms"><tspan class="fcount num">8</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1050ms;animation-duration:70ms"><tspan class="fcount num">8</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1120ms;animation-duration:70ms"><tspan class="fcount num">8</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1190ms;animation-duration:70ms"><tspan class="fcount num">8</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1260ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1330ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1400ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1470ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1540ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1610ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1680ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cfin" style="animation-duration:1750ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text class="flab" x="256.7" y="236" text-anchor="end">Latest paper</text>
+<text class="fdate" x="256.7" y="257" text-anchor="end">Oct 13, 2026</text>
+</g>
+<g transform="translate(645.3,506.0)">
+<rect width="282.7" height="286" rx="27" fill="#050506" filter="url(#lift)"/>
+<g clip-path="url(#f5-clip)">
+<rect x="0" y="0" width="282.7" height="286" fill="#0b0b0d"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#f5-sky)"/>
+<ellipse cx="84.8" cy="40" rx="118.7" ry="26" fill="#ffffff" opacity=".22" filter="url(#soft)" transform="rotate(-14 84.8 40)"/>
+<ellipse cx="197.9" cy="96" rx="107.4" ry="16" fill="#4E79F2" opacity=".9" filter="url(#soft)" transform="rotate(-8 197.9 96)"/>
+<rect x="0" y="0" width="282.7" height="180" fill="url(#grain)" opacity=".35"/>
+<g class="pp" style="animation-delay:860ms">
+<g transform="rotate(-9 98.3 131.0)" filter="url(#paper)">
+<rect x="52.3" y="66" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a1383e-0480-7b7f-8295-bbcaeb307a09.png" x="52.3" y="66" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f5-2610_15324)"/>
+</g></g>
+<g class="pp" style="animation-delay:970ms">
+<g transform="rotate(8 218.3 133.0)" filter="url(#paper)">
+<rect x="172.3" y="68" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/01a12e10-9693-75bf-9bb3-10e0b3c24e23.png" x="172.3" y="68" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f5-2610_13778)"/>
+</g></g>
+<g class="pp" style="animation-delay:750ms">
+<g transform="rotate(0 158.3 121.0)" filter="url(#paper)">
+<rect x="112.3" y="56" width="92" height="130" rx="7" fill="#ffffff"/>
+<image href="https://thumbnails.assets.alphaxiv.org/512/019d65d7-4083-75ac-aced-3f0d57e425d5.png" x="112.3" y="56" width="92" height="130" preserveAspectRatio="xMidYMin slice" clip-path="url(#f5-2604_04921)"/>
+</g></g>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="url(#front)"/>
+<path d="M6,150 Q6,128 28,128 L119.3,128 Q133.3,128 143.3,139 L157.3,148 Q167.3,160 183.3,160 L256.6666666666667,160 Q276.6666666666667,160 276.6666666666667,180 L276.6666666666667,280 L6,280 Z" fill="none" stroke="#ffffff" stroke-opacity=".06"/>
+</g>
+<rect x="147.0" y="20" width="115.7" height="28" rx="14" fill="#4E79F2" fill-opacity=".22" stroke="#4E79F2" stroke-opacity=".55"/>
+<text class="pill" x="204.8" y="38.5" text-anchor="middle" fill="#ffffff">6% of library</text>
+<text class="fname" x="26" y="162">KV Cache</text>
+<text x="26" y="258" class=" cf" style="animation-delay:500ms;animation-duration:70ms"><tspan class="fcount num">2</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:570ms;animation-duration:70ms"><tspan class="fcount num">3</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:640ms;animation-duration:70ms"><tspan class="fcount num">5</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:710ms;animation-duration:70ms"><tspan class="fcount num">6</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:780ms;animation-duration:70ms"><tspan class="fcount num">7</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:850ms;animation-duration:70ms"><tspan class="fcount num">8</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:920ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:990ms;animation-duration:70ms"><tspan class="fcount num">9</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1060ms;animation-duration:70ms"><tspan class="fcount num">10</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1130ms;animation-duration:70ms"><tspan class="fcount num">10</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1200ms;animation-duration:70ms"><tspan class="fcount num">11</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1270ms;animation-duration:70ms"><tspan class="fcount num">11</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1340ms;animation-duration:70ms"><tspan class="fcount num">11</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1410ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1480ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1550ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1620ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1690ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cf" style="animation-delay:1760ms;animation-duration:70ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text x="26" y="258" class=" cfin" style="animation-duration:1830ms"><tspan class="fcount num">12</tspan><tspan class="funit" dx="8">papers</tspan></text>
+<text class="flab" x="256.7" y="236" text-anchor="end">Latest paper</text>
+<text class="fdate" x="256.7" y="257" text-anchor="end">Oct 11, 2026</text>
+</g>
+<line class="rule" x1="32.0" y1="832.0" x2="928.0" y2="832.0" stroke-width="1"/>
+<text class="faint xs" x="32.0" y="854.0" text-anchor="start" >Updated 2026-10-29 22:12 UTC+8</text>
+<text class="faint xs" x="928.0" y="854.0" text-anchor="end" >Source: alphaXiv library  ·  covers: alphaXiv thumbnails  ·  private uploads excluded</text></svg>

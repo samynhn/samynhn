@@ -1,0 +1,48 @@
+{
+ "repos": "9",
+ "stars": "0",
+ "commits": "73",
+ "followers": "4",
+ "loc": "154,508",
+ "loc_add": "277,726",
+ "loc_del": "123,218",
+ "contributed": "7",
+ "updated": "2026-10-29",
+ "per_repo": {
+  "110_2_NTUT_IOS": [
+   20,
+   3625,
+   15
+  ],
+  "my-slide": [
+   6,
+   15682,
+   109
+  ],
+  "oh-my-docker": [
+   1,
+   28,
+   0
+  ],
+  "samynhn": [
+   21,
+   510,
+   49
+  ],
+  "samynhn.github.io": [
+   2,
+   15,
+   7
+  ],
+  "smart-contract": [
+   15,
+   251655,
+   123025
+  ],
+  "SIMD-AI-Accelerator": [
+   8,
+   6211,
+   13
+  ]
+ }
+}
