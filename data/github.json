@@ -1,13 +1,13 @@
 {
+ "updated": "2026-10-29",
  "repos": "9",
  "stars": "0",
- "commits": "73",
  "followers": "4",
- "loc": "154,508",
- "loc_add": "277,726",
- "loc_del": "123,218",
- "contributed": "7",
- "updated": "2026-10-29",
+ "commits": "65",
+ "loc": "148,310",
+ "loc_add": "271,515",
+ "loc_del": "123,205",
+ "contributed": "6",
  "per_repo": {
   "110_2_NTUT_IOS": [
    20,
@@ -38,11 +38,6 @@
    15,
    251655,
    123025
-  ],
-  "SIMD-AI-Accelerator": [
-   8,
-   6211,
-   13
   ]
  }
 }
