@@ -144,7 +144,7 @@ def render(st, theme, art=None):
            f".text{{fill:{c['text']}}}.key{{fill:{c['key']}}}.value{{fill:{c['value']}}}"
            f".cc{{fill:{c['cc']}}}.add{{fill:{c['add']}}}.del{{fill:{c['del']}}}"
            # rows/art lines: hidden until their delay, then printed in one frame
-           f".ln{{animation:ln .01s step-end both}}@keyframes ln{{from{{opacity:0}}}}"
+           f".ln{{animation:ln .01s linear both}}@keyframes ln{{0%{{opacity:0}}100%{{opacity:1}}}}"
            # typed command: a background-coloured cover shrinks one character per step
            f".cover{{transform-box:fill-box;transform-origin:right center;transform:scaleX(0);"
            f"animation:untype {len(CMD)*T_CHAR}ms steps({len(CMD)},end) {T_TYPE0}ms both}}"
@@ -155,7 +155,7 @@ def render(st, theme, art=None):
            f"@keyframes tmove{{from{{transform:translateX(0)}}to{{transform:translateX({len(CMD)*cw:.2f}px)}}}}"
            f"@keyframes tshow{{from,to{{opacity:1}}}}"
            # final cursor: steady blink forever
-           f".cur{{animation:ln .01s step-end {t_end}ms both,blink {BLINK} step-end {t_end}ms infinite}}"
+           f".cur{{animation:ln .01s linear {t_end}ms both,blink {BLINK} step-end {t_end}ms infinite}}"
            f"@keyframes blink{{0%,50%{{opacity:1}}50.01%,100%{{opacity:0}}}}"
            f"@media (prefers-reduced-motion:reduce){{.ln,.cover,.cur{{animation:none}}.tcur{{display:none}}}}")
     out = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{w}" height="{h}" viewBox="0 0 {w} {h}" '

@@ -8,7 +8,6 @@ on:
     paths:                     # the private repos published new numbers
       - "data/ai-summary.json"
       - "data/papers-summary.json"
-      - "data/papers-links.md"
   workflow_dispatch:
 
 permissions:

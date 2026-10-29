@@ -5,7 +5,6 @@ Inputs (all in data/):
   github.json          GitHub stats (scripts/fetch_github.py, this repo)
   ai-summary.json      pushed here by the private ai-usage repo
   papers-summary.json  pushed here by the private paper-library repo
-  papers-links.md      pushed here by the private paper-library repo
   ascii.txt            the portrait
 """
 import datetime as dt
@@ -38,13 +37,3 @@ art = (D / "ascii.txt").read_text().rstrip("\n").split("\n") if (D / "ascii.txt"
 for theme in render_profile.THEMES:
     (ROOT / "assets" / f"profile-{theme}.svg").write_text(render_profile.render(st, theme, art))
 print("drew profile cards")
-
-links = D / "papers-links.md"
-if links.exists():
-    readme = ROOT / "README.md"
-    text = readme.read_text()
-    new = re.sub(r"(<!-- PAPERS:START[^>]*-->)(.*?)(<!-- PAPERS:END -->)",
-                 lambda m: f"{m.group(1)}\n{links.read_text().strip()}\n\n{m.group(3)}", text, flags=re.S)
-    if new != text:
-        readme.write_text(new)
-        print("updated README paper links")
