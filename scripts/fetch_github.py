@@ -70,6 +70,8 @@ def main():
             if (c.get("author") or {}).get("login", "").lower() == user.lower():
                 a = sum(w["a"] for w in c["weeks"]); d = sum(w["d"] for w in c["weeks"])
                 per_repo[r["name"]] = [c["total"], a, d]
+        if r["name"] not in per_repo and r["name"] in prev.get("per_repo", {}):
+            per_repo[r["name"]] = prev["per_repo"][r["name"]]  # GitHub's stats cache dropped you: keep last known
     for c, a, d in per_repo.values():
         commits += c; add += a; dele += d
 
