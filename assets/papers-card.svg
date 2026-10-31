@@ -124,26 +124,26 @@
 <text x="496.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">31</text>
 <line class="rule" x1="629.3" y1="104.0" x2="629.3" y2="148.0" stroke-width="1"/>
 <text class="mut cap" x="645.3" y="118.0" text-anchor="start" >HIGHLIGHTED</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">0</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">1</text>
 <text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">1</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">1</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">1</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">2</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">2</text>
 <text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">2</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">2</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">2</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">2</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">3</text>
 <text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">3</text>
-<text x="645.3" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">3</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">4</text>
+<text x="645.3" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">4</text>
 <text class="faint xs" x="664.8" y="144.0" text-anchor="start" >papers</text>
 <line class="rule" x1="778.7" y1="104.0" x2="778.7" y2="148.0" stroke-width="1"/>
 <text class="mut cap" x="794.7" y="118.0" text-anchor="start" >LARGEST FOLDER</text>
@@ -464,5 +464,5 @@
 <text class="fdate" x="256.7" y="257" text-anchor="end">Oct 11, 2026</text>
 </g>
 <line class="rule" x1="32.0" y1="832.0" x2="928.0" y2="832.0" stroke-width="1"/>
-<text class="faint xs" x="32.0" y="854.0" text-anchor="start" >Updated 2026-10-31 11:01 UTC+8</text>
+<text class="faint xs" x="32.0" y="854.0" text-anchor="start" >Updated 2026-10-31 17:30 UTC+8</text>
 <text class="faint xs" x="928.0" y="854.0" text-anchor="end" >Source: alphaXiv library  ·  covers: alphaXiv thumbnails  ·  private uploads excluded</text></svg>
