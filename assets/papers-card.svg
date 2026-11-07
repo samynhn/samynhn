@@ -31,30 +31,30 @@
   @media (prefers-reduced-motion: reduce){*{animation:none !important}}
 </style><defs><filter id="lift" x="-10%" y="-10%" width="120%" height="125%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#000" flood-opacity=".22"/></filter><filter id="paper" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="3" stdDeviation="4" flood-color="#000" flood-opacity=".45"/></filter><filter id="soft" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="16"/></filter><pattern id="grain" width="6" height="6" patternUnits="userSpaceOnUse"><rect width="1.2" height="1.2" fill="#000"/><rect x="3" y="3" width="1.2" height="1.2" fill="#000"/></pattern><linearGradient id="front" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#232326"/><stop offset="1" stop-color="#151517"/></linearGradient><clipPath id="f0-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f0-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7C6BFF" stop-opacity=".95"/><stop offset=".55" stop-color="#7C6BFF" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f0-2611_04527"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f0-2610_37666"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f0-2610_30136"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f1-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f1-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#DB61A2" stop-opacity=".95"/><stop offset=".55" stop-color="#DB61A2" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f1-2611_weight-space-programming"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f1-2610_13778"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f1-2608_21308"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f2-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f2-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#E5534B" stop-opacity=".95"/><stop offset=".55" stop-color="#E5534B" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f2-2610_40325"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f2-2610_31633"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f2-2610_05538"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f3-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f3-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#F0883E" stop-opacity=".95"/><stop offset=".55" stop-color="#F0883E" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f3-2610_25858"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f3-2610_18861"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f3-2609_24972"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f4-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f4-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2DA44E" stop-opacity=".95"/><stop offset=".55" stop-color="#2DA44E" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f4-2610_25664"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f4-2610_22369"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f4-2610_10823"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath><clipPath id="f5-clip"><rect x="6" y="6" width="270.7" height="274.0" rx="21"/></clipPath><linearGradient id="f5-sky" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8DB600" stop-opacity=".95"/><stop offset=".55" stop-color="#8DB600" stop-opacity=".35"/><stop offset="1" stop-color="#0b0b0d" stop-opacity="1"/></linearGradient><clipPath id="f5-2610_19247"><rect x="52.3" y="66" width="92" height="130" rx="7"/></clipPath><clipPath id="f5-2610_17959"><rect x="172.3" y="68" width="92" height="130" rx="7"/></clipPath><clipPath id="f5-2609_36529"><rect x="112.3" y="56" width="92" height="130" rx="7"/></clipPath></defs><rect class="bg" x=".5" y=".5" width="959" height="869" rx="6"/><text class="fg title" x="32.0" y="46.0" text-anchor="start" >Paper Library</text>
 <text class="mut cap" x="32.0" y="68.0" text-anchor="start" >ALPHAXIV  ·  6 MOST RECENTLY UPDATED FOLDERS  ·  3 NEWEST PAPERS EACH</text>
-<text class="mut s" x="928.0" y="46.0" text-anchor="end" >210 papers saved</text>
+<text class="mut s" x="928.0" y="46.0" text-anchor="end" >211 papers saved</text>
 <text class="faint xs" x="928.0" y="66.0" text-anchor="end" >Sorted by publication date</text>
 <line class="rule" x1="32.0" y1="92.0" x2="928.0" y2="92.0" stroke-width="1"/>
 <text class="mut cap" x="32.0" y="118.0" text-anchor="start" >SAVED PAPERS</text>
 <text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">30</text>
 <text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">57</text>
 <text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">81</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">102</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">121</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">138</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">152</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">103</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">122</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">139</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">153</text>
 <text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">165</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">175</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">184</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">191</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">176</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">185</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">192</text>
 <text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">197</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">201</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">204</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">207</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">208</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">209</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">210</text>
-<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">210</text>
-<text x="32.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">210</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">202</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">205</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">208</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">209</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">210</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">211</text>
+<text x="32.0" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">211</text>
+<text x="32.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">211</text>
 <line class="rule" x1="181.3" y1="104.0" x2="181.3" y2="148.0" stroke-width="1"/>
 <text class="mut cap" x="197.3" y="118.0" text-anchor="start" >FOLDERS</text>
 <text x="197.3" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">2</text>
@@ -84,44 +84,44 @@
 <text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">44</text>
 <text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">56</text>
 <text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">66</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">75</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">76</text>
 <text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">83</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">89</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">95</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">100</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">104</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">107</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">109</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">111</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">112</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">113</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">114</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">114</text>
-<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">114</text>
-<text x="346.7" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">114</text>
-<text class="faint xs" x="393.2" y="144.0" text-anchor="start" >54%</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">90</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">96</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">101</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">105</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">108</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">110</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">112</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">113</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">114</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">115</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">115</text>
+<text x="346.7" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">115</text>
+<text x="346.7" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">115</text>
+<text class="faint xs" x="393.2" y="144.0" text-anchor="start" >55%</text>
 <line class="rule" x1="480.0" y1="104.0" x2="480.0" y2="148.0" stroke-width="1"/>
 <text class="mut cap" x="496.0" y="118.0" text-anchor="start" >PUBLISHED · 30D</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">3</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">5</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">7</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">9</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">11</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">12</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">14</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">15</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">16</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">17</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">17</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">18</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">18</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">18</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">19</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">19</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">19</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">19</text>
-<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">19</text>
-<text x="496.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">19</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">2</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:70ms;animation-duration:70ms">4</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:140ms;animation-duration:70ms">6</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:210ms;animation-duration:70ms">8</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:280ms;animation-duration:70ms">9</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:350ms;animation-duration:70ms">11</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:420ms;animation-duration:70ms">12</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:490ms;animation-duration:70ms">13</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:560ms;animation-duration:70ms">13</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:630ms;animation-duration:70ms">14</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:700ms;animation-duration:70ms">15</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:770ms;animation-duration:70ms">15</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:840ms;animation-duration:70ms">15</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:910ms;animation-duration:70ms">16</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:980ms;animation-duration:70ms">16</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1050ms;animation-duration:70ms">16</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1120ms;animation-duration:70ms">16</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1190ms;animation-duration:70ms">16</text>
+<text x="496.0" y="144" class="fg kpi num cf" style="animation-delay:1260ms;animation-duration:70ms">16</text>
+<text x="496.0" y="144" class="fg kpi num cfin" style="animation-duration:1330ms">16</text>
 <line class="rule" x1="629.3" y1="104.0" x2="629.3" y2="148.0" stroke-width="1"/>
 <text class="mut cap" x="645.3" y="118.0" text-anchor="start" >HIGHLIGHTED</text>
 <text x="645.3" y="144" class="fg kpi num cf" style="animation-delay:0ms;animation-duration:70ms">1</text>
@@ -462,5 +462,5 @@
 <text class="fdate" x="256.7" y="257" text-anchor="end">Oct 13, 2026</text>
 </g>
 <line class="rule" x1="32.0" y1="832.0" x2="928.0" y2="832.0" stroke-width="1"/>
-<text class="faint xs" x="32.0" y="854.0" text-anchor="start" >Updated 2026-11-06 04:34 UTC+8</text>
+<text class="faint xs" x="32.0" y="854.0" text-anchor="start" >Updated 2026-11-08 04:46 UTC+8</text>
 <text class="faint xs" x="928.0" y="854.0" text-anchor="end" >Source: alphaXiv library  ·  covers: alphaXiv thumbnails  ·  private uploads excluded</text></svg>
