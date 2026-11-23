@@ -39,74 +39,74 @@
   @media (prefers-reduced-motion: reduce){*{animation:none !important}}
 </style><rect class="bg" x=".5" y=".5" width="959" height="920" rx="6"/><text class="fg title" x="32.0" y="46.0" text-anchor="start" >AI Coding Activity</text>
 <text class="mut cap" x="32.0" y="68.0" text-anchor="start" >NOV 25, 2025 – NOV 23, 2026  ·  CLAUDE · CODEX · CURSOR · OPENROUTER</text>
-<text class="mut s" x="928.0" y="46.0" text-anchor="end" >25.04B tokens in 364 days</text>
-<text class="faint xs" x="928.0" y="66.0" text-anchor="end" >Primary tool (30d): Claude 87%</text>
+<text class="mut s" x="928.0" y="46.0" text-anchor="end" >25.07B tokens in 364 days</text>
+<text class="faint xs" x="928.0" y="66.0" text-anchor="end" >Primary tool (30d): Claude 86%</text>
 <line class="rule" x1="32.0" y1="92.0" x2="928.0" y2="92.0" stroke-width="1" />
 <text class="mut cap" x="32.0" y="118.0" text-anchor="start" >TOKENS · 30D</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">622.4M</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">1.18B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">1.68B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">2.13B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">2.52B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">2.87B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">3.17B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">3.42B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">3.64B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">3.82B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">3.97B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">4.08B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">4.18B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">4.25B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">4.30B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">4.33B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">4.35B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">4.36B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">4.36B</text>
-<text class="fg kpi num cfin" x="32.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">4.36B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">625.7M</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">1.19B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">1.69B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">2.14B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">2.54B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">2.88B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">3.18B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">3.44B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">3.66B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">3.84B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">3.99B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">4.11B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">4.20B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">4.27B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">4.32B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">4.35B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">4.37B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">4.38B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">4.39B</text>
+<text class="fg kpi num cfin" x="32.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">4.39B</text>
 <line class="rule" x1="181.3" y1="104.0" x2="181.3" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="197.3" y="118.0" text-anchor="start" >EST. API COST · 30D</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">$267</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">$507</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">$721</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">$912</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">$1,081</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">$1,228</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">$1,356</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">$1,466</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">$1,559</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">$1,636</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">$1,699</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">$1,750</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">$1,790</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">$1,819</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">$1,841</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">$1,855</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">$1,863</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">$1,868</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">$1,870</text>
-<text class="fg kpi num cfin" x="197.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">$1,870</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">$269</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">$510</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">$727</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">$919</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">$1,089</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">$1,238</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">$1,366</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">$1,477</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">$1,570</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">$1,648</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">$1,712</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">$1,763</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">$1,803</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">$1,833</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">$1,854</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">$1,869</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">$1,877</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">$1,882</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">$1,883</text>
+<text class="fg kpi num cfin" x="197.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">$1,884</text>
 <line class="rule" x1="330.7" y1="104.0" x2="330.7" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="346.7" y="118.0" text-anchor="start" >DAILY AVG · 30D</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">20.7M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">39.4M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">56.1M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">71.0M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">84.1M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">95.6M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">105.5M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">114.0M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">121.3M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">127.3M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">132.2M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">136.2M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">139.2M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">141.5M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">143.2M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">144.3M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">145.0M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">145.3M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">145.4M</text>
-<text class="fg kpi num cfin" x="346.7" y="144.0" text-anchor="start" style="animation-duration:1330ms">145.5M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">20.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">39.6M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">56.4M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">71.4M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">84.5M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">96.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">106.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">114.6M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">121.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">128.0M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">132.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">136.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">140.0M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">142.3M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">143.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">145.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">145.7M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">146.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">146.2M</text>
+<text class="fg kpi num cfin" x="346.7" y="144.0" text-anchor="start" style="animation-duration:1330ms">146.2M</text>
 <line class="rule" x1="480.0" y1="104.0" x2="480.0" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="496.0" y="118.0" text-anchor="start" >ACTIVE DAYS</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">18</text>
@@ -114,45 +114,45 @@
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">48</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">61</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">72</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">81</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">90</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">97</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">103</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">108</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">113</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">116</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">119</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">121</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">122</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">123</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">124</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">124</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">124</text>
-<text class="fg kpi num cfin" x="496.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">124</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">82</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">91</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">98</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">104</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">109</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">114</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">117</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">120</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">122</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">123</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">124</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">125</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">125</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">125</text>
+<text class="fg kpi num cfin" x="496.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">125</text>
 <text class="faint xs" x="542.5" y="144.0" text-anchor="start" >/ 364</text>
 <line class="rule" x1="629.3" y1="104.0" x2="629.3" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="645.3" y="118.0" text-anchor="start" >STREAK</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">0d</text>
-<text class="fg kpi num cfin" x="645.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">0d</text>
-<text class="faint xs" x="678.3" y="144.0" text-anchor="start" >best 106d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">15d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">29d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">41d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">52d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">62d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">70d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">78d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">84d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">89d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">94d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">97d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">100d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">102d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">104d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">105d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">106d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">107d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">107d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">107d</text>
+<text class="fg kpi num cfin" x="645.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">107d</text>
+<text class="faint xs" x="705.3" y="144.0" text-anchor="start" >best 107d</text>
 <line class="rule" x1="778.7" y1="104.0" x2="778.7" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="794.7" y="118.0" text-anchor="start" >PEAK DAY · 30D</text>
 <text class="fg kpi num cf" x="794.7" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">53.3M</text>
@@ -697,10 +697,12 @@
 <rect class="px pr t-cursor" x="886.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 </g>
 <g class="wip">
+<rect class="px pr t-codex" x="904.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-cursor" x="914.8" y="418.0" width="8" height="8" style="animation:pr .3s steps(3,end) 0ms both, blink 1.3s step-end 300ms infinite"/>
 </g>
 <text class="faint xs num" x="913.8" y="444.0" text-anchor="middle" >Nov 23</text>
 <text class="fg xs num b late" x="558.0" y="244.0" text-anchor="end" style="animation-delay:1155ms">374.0M</text>
-<text class="faint xs" x="928.0" y="222.0" text-anchor="end" >Today 0 · faded column is still accumulating</text>
+<text class="faint xs" x="928.0" y="222.0" text-anchor="end" >Today 23.0M · faded column is still accumulating</text>
 <line class="rule" x1="32.0" y1="460.0" x2="928.0" y2="460.0" stroke-width="1" />
 <text class="mut cap" x="32.0" y="492.0" text-anchor="start" >PLAN LIMITS</text>
 <text class="faint xs" x="928.0" y="492.0" text-anchor="end" >Remaining  ·  times = until reset  ·  tick = expected remaining at this point</text>
@@ -708,28 +710,28 @@
 <text class="fg s b" x="42.0" y="523.0" text-anchor="start" >Claude</text>
 <text class="mut xs" x="235.0" y="523.0" text-anchor="end" >Max 5x</text>
 <text class="mut xs" x="32.0" y="552.0" text-anchor="start" >Session</text>
-<text class="xs num" x="235.0" y="552.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 4h 50m</tspan></text>
+<text class="xs num" x="235.0" y="552.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 3h 19m</tspan></text>
 <rect x="32.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-claude" x="32.0" y="559.0" width="203.0" height="3" style="animation-delay:200ms"/>
-<rect class="tick late" x="228.2" y="557" width="1.5" height="7" style="animation-delay:1000ms"/>
+<rect class="tick late" x="167.3" y="557" width="1.5" height="7" style="animation-delay:1000ms"/>
 <text class="mut xs" x="32.0" y="582.0" text-anchor="start" >Weekly</text>
-<text class="xs num" x="235.0" y="582.0" text-anchor="end"><tspan class="fg b">97% left</tspan><tspan class="faint"> · 6d 9h</tspan></text>
+<text class="xs num" x="235.0" y="582.0" text-anchor="end"><tspan class="fg b">95% left</tspan><tspan class="faint"> · 5d 21h</tspan></text>
 <rect x="32.0" y="589.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-claude" x="32.0" y="589.0" width="196.9" height="3" style="animation-delay:290ms"/>
-<rect class="tick late" x="216.0" y="587" width="1.5" height="7" style="animation-delay:1000ms"/>
+<rect class="grow t-claude" x="32.0" y="589.0" width="192.8" height="3" style="animation-delay:290ms"/>
+<rect class="tick late" x="201.8" y="587" width="1.5" height="7" style="animation-delay:1000ms"/>
 <text class="mut xs" x="32.0" y="612.0" text-anchor="start" >Fable only</text>
-<text class="xs num" x="235.0" y="612.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 6d 9h</tspan></text>
+<text class="xs num" x="235.0" y="612.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 5d 21h</tspan></text>
 <rect x="32.0" y="619.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-claude" x="32.0" y="619.0" width="203.0" height="3" style="animation-delay:380ms"/>
-<rect class="tick late" x="216.0" y="617" width="1.5" height="7" style="animation-delay:1000ms"/>
+<rect class="tick late" x="201.8" y="617" width="1.5" height="7" style="animation-delay:1000ms"/>
 <rect x="263.0" y="511.0" width="3.0" height="14.0" rx="0" class="t-codex"/>
 <text class="fg s b" x="273.0" y="523.0" text-anchor="start" >Codex</text>
 <text class="mut xs" x="466.0" y="523.0" text-anchor="end" >prolite</text>
 <text class="mut xs" x="263.0" y="552.0" text-anchor="start" >Weekly</text>
-<text class="xs num" x="466.0" y="552.0" text-anchor="end"><tspan class="fg b">99% left</tspan><tspan class="faint"> · 6d 1h</tspan></text>
+<text class="xs num" x="466.0" y="552.0" text-anchor="end"><tspan class="fg b">98% left</tspan><tspan class="faint"> · 5d 14h</tspan></text>
 <rect x="263.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-codex" x="263.0" y="559.0" width="201.0" height="3" style="animation-delay:320ms"/>
-<rect class="tick late" x="438.9" y="557" width="1.5" height="7" style="animation-delay:1120ms"/>
+<rect class="grow t-codex" x="263.0" y="559.0" width="198.9" height="3" style="animation-delay:320ms"/>
+<rect class="tick late" x="424.6" y="557" width="1.5" height="7" style="animation-delay:1120ms"/>
 <text class="mut xs" x="263.0" y="582.0" text-anchor="start" >Credits</text>
 <text class="fg xs num" x="466.0" y="582.0" text-anchor="end" >351 left</text>
 <text class="mut xs" x="263.0" y="612.0" text-anchor="start" >Reset credits</text>
@@ -738,33 +740,33 @@
 <text class="fg s b" x="504.0" y="523.0" text-anchor="start" >Cursor</text>
 <text class="mut xs" x="697.0" y="523.0" text-anchor="end" >Pro</text>
 <text class="mut xs" x="494.0" y="552.0" text-anchor="start" >Total</text>
-<text class="xs num" x="697.0" y="552.0" text-anchor="end"><tspan class="fg b">76% left</tspan><tspan class="faint"> · 13d 17h</tspan></text>
+<text class="xs num" x="697.0" y="552.0" text-anchor="end"><tspan class="fg b">75% left</tspan><tspan class="faint"> · 13d 5h</tspan></text>
 <rect x="494.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-cursor" x="494.0" y="559.0" width="154.3" height="3" style="animation-delay:440ms"/>
-<rect class="tick late" x="586.6" y="557" width="1.5" height="7" style="animation-delay:1240ms"/>
+<rect class="grow t-cursor" x="494.0" y="559.0" width="152.2" height="3" style="animation-delay:440ms"/>
+<rect class="tick late" x="582.6" y="557" width="1.5" height="7" style="animation-delay:1240ms"/>
 <text class="mut xs" x="494.0" y="582.0" text-anchor="start" >Cursor</text>
-<text class="xs num" x="697.0" y="582.0" text-anchor="end"><tspan class="fg b">77% left</tspan><tspan class="faint"> · 13d 17h</tspan></text>
+<text class="xs num" x="697.0" y="582.0" text-anchor="end"><tspan class="fg b">76% left</tspan><tspan class="faint"> · 13d 5h</tspan></text>
 <rect x="494.0" y="589.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-cursor" x="494.0" y="589.0" width="156.3" height="3" style="animation-delay:530ms"/>
-<rect class="tick late" x="586.6" y="587" width="1.5" height="7" style="animation-delay:1240ms"/>
+<rect class="grow t-cursor" x="494.0" y="589.0" width="154.3" height="3" style="animation-delay:530ms"/>
+<rect class="tick late" x="582.6" y="587" width="1.5" height="7" style="animation-delay:1240ms"/>
 <text class="mut xs" x="494.0" y="612.0" text-anchor="start" >Third Party</text>
-<text class="xs num" x="697.0" y="612.0" text-anchor="end"><tspan class="fg b">4% left</tspan><tspan class="faint"> · 13d 17h</tspan></text>
+<text class="xs num" x="697.0" y="612.0" text-anchor="end"><tspan class="fg b">4% left</tspan><tspan class="faint"> · 13d 5h</tspan></text>
 <rect x="494.0" y="619.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-cursor" x="494.0" y="619.0" width="8.1" height="3" style="animation-delay:620ms"/>
-<rect class="tick late" x="586.6" y="617" width="1.5" height="7" style="animation-delay:1240ms"/>
+<rect class="tick late" x="582.6" y="617" width="1.5" height="7" style="animation-delay:1240ms"/>
 <rect x="725.0" y="511.0" width="3.0" height="14.0" rx="0" class="t-openrouter"/>
 <text class="fg s b" x="735.0" y="523.0" text-anchor="start" >OpenRouter</text>
 <text class="mut xs" x="928.0" y="523.0" text-anchor="end" >Pay as you go</text>
 <text class="mut xs" x="725.0" y="552.0" text-anchor="start" >Credits</text>
-<text class="xs num" x="928.0" y="552.0" text-anchor="end"><tspan class="fg b">94% left</tspan><tspan class="faint"> · $71.26 left</tspan></text>
+<text class="xs num" x="928.0" y="552.0" text-anchor="end"><tspan class="fg b">93% left</tspan><tspan class="faint"> · $71.09 left</tspan></text>
 <rect x="725.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-openrouter" x="725.0" y="559.0" width="190.8" height="3" style="animation-delay:560ms"/>
+<rect class="grow t-openrouter" x="725.0" y="559.0" width="188.8" height="3" style="animation-delay:560ms"/>
 <text class="mut xs" x="725.0" y="582.0" text-anchor="start" >Key cap</text>
-<text class="xs num" x="928.0" y="582.0" text-anchor="end"><tspan class="fg b">94% left</tspan><tspan class="faint"> · $46.91 left</tspan></text>
+<text class="xs num" x="928.0" y="582.0" text-anchor="end"><tspan class="fg b">93% left</tspan><tspan class="faint"> · $46.73 left</tspan></text>
 <rect x="725.0" y="589.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-openrouter" x="725.0" y="589.0" width="190.8" height="3" style="animation-delay:650ms"/>
+<rect class="grow t-openrouter" x="725.0" y="589.0" width="188.8" height="3" style="animation-delay:650ms"/>
 <text class="mut xs" x="725.0" y="612.0" text-anchor="start" >This month</text>
-<text class="fg xs num" x="928.0" y="612.0" text-anchor="end" >$3.09 spent</text>
+<text class="fg xs num" x="928.0" y="612.0" text-anchor="end" >$3.27 spent</text>
 <line class="rule" x1="32.0" y1="668.0" x2="928.0" y2="668.0" stroke-width="1" />
 <text class="mut cap" x="32.0" y="702.0" text-anchor="start" >ACTIVITY · LAST 12 MONTHS</text>
 <text class="faint xs" x="928.0" y="702.0" text-anchor="end" >Tracking since Nov 25, 2025</text>
@@ -1062,7 +1064,7 @@
 <rect x="654.0" y="747.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-cursor" x="654.0" y="747.0" width="12" height="12" rx="2" fill-opacity="1.00"/>
 <rect x="654.0" y="762.0" width="12.0" height="12.0" rx="2" class="empty"/>
-<rect class="heat t-codex" x="654.0" y="762.0" width="12" height="12" rx="2" fill-opacity="0.55"/>
+<rect class="heat t-codex" x="654.0" y="762.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="654.0" y="777.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-codex" x="654.0" y="777.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="654.0" y="792.0" width="12.0" height="12.0" rx="2" class="empty"/>
@@ -1263,9 +1265,9 @@
 <rect x="864.0" y="762.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-claude" x="864.0" y="762.0" width="12" height="12" rx="2" fill-opacity="1.00"/>
 <rect x="864.0" y="777.0" width="12.0" height="12.0" rx="2" class="empty"/>
-<rect class="heat t-claude" x="864.0" y="777.0" width="12" height="12" rx="2" fill-opacity="0.85"/>
+<rect class="heat t-claude" x="864.0" y="777.0" width="12" height="12" rx="2" fill-opacity="1.00"/>
 <rect x="864.0" y="792.0" width="12.0" height="12.0" rx="2" class="empty"/>
-<rect class="heat t-claude" x="864.0" y="792.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
+<rect class="heat t-claude" x="864.0" y="792.0" width="12" height="12" rx="2" fill-opacity="0.85"/>
 <rect x="864.0" y="807.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-codex" x="864.0" y="807.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="864.0" y="822.0" width="12.0" height="12.0" rx="2" class="empty"/>
@@ -1273,12 +1275,13 @@
 <rect x="879.0" y="732.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-codex" x="879.0" y="732.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="879.0" y="747.0" width="12.0" height="12.0" rx="2" class="empty"/>
+<rect class="heat t-codex" x="879.0" y="747.0" width="12" height="12" rx="2" fill-opacity="0.55"/>
 <rect x="99.0" y="848.0" width="10.0" height="10.0" rx="2" class="t-claude"/>
 <text class="mut xs" x="114.0" y="857.0" text-anchor="start" >Claude  72d</text>
 <rect x="217.0" y="848.0" width="10.0" height="10.0" rx="2" class="t-codex"/>
-<text class="mut xs" x="232.0" y="857.0" text-anchor="start" >Codex  83d</text>
+<text class="mut xs" x="232.0" y="857.0" text-anchor="start" >Codex  84d</text>
 <rect x="335.0" y="848.0" width="10.0" height="10.0" rx="2" class="t-cursor"/>
-<text class="mut xs" x="350.0" y="857.0" text-anchor="start" >Cursor  71d</text>
+<text class="mut xs" x="350.0" y="857.0" text-anchor="start" >Cursor  72d</text>
 <text class="faint xs" x="891.0" y="857.0" text-anchor="end" >More</text>
 <rect x="851.0" y="848.0" width="10.0" height="10.0" rx="2" class="mut" fill-opacity="1.00"/>
 <rect x="838.0" y="848.0" width="10.0" height="10.0" rx="2" class="mut" fill-opacity="0.85"/>
@@ -1286,5 +1289,5 @@
 <rect x="812.0" y="848.0" width="10.0" height="10.0" rx="2" class="mut" fill-opacity="0.55"/>
 <text class="faint xs" x="806.0" y="857.0" text-anchor="end" >Less</text>
 <line class="rule" x1="32.0" y1="883.0" x2="928.0" y2="883.0" stroke-width="1" />
-<text class="faint xs" x="32.0" y="905.0" text-anchor="start" >Updated 2026-11-23 00:59 UTC+8</text>
+<text class="faint xs" x="32.0" y="905.0" text-anchor="start" >Updated 2026-11-23 12:41 UTC+8</text>
 <text class="faint xs" x="928.0" y="905.0" text-anchor="end" >Tokens: Token Monitor + ccusage (servers)  ·  Limits: CodexBar  ·  Costs are API-equivalent estimates, not billed amounts</text></svg>
