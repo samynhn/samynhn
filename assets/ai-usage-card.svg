@@ -38,121 +38,121 @@
   @keyframes cfin{from,to{opacity:0}}
   @media (prefers-reduced-motion: reduce){*{animation:none !important}}
 </style><rect class="bg" x=".5" y=".5" width="959" height="920" rx="6"/><text class="fg title" x="32.0" y="46.0" text-anchor="start" >AI Coding Activity</text>
-<text class="mut cap" x="32.0" y="68.0" text-anchor="start" >NOV 25, 2025 – NOV 23, 2026  ·  CLAUDE · CODEX · CURSOR · OPENROUTER</text>
-<text class="mut s" x="928.0" y="46.0" text-anchor="end" >25.07B tokens in 364 days</text>
-<text class="faint xs" x="928.0" y="66.0" text-anchor="end" >Primary tool (30d): Claude 86%</text>
+<text class="mut cap" x="32.0" y="68.0" text-anchor="start" >NOV 25, 2025 – NOV 24, 2026  ·  CLAUDE · CODEX · CURSOR · OPENROUTER</text>
+<text class="mut s" x="928.0" y="46.0" text-anchor="end" >25.36B tokens in 365 days</text>
+<text class="faint xs" x="928.0" y="66.0" text-anchor="end" >Primary tool (30d): Claude 85%</text>
 <line class="rule" x1="32.0" y1="92.0" x2="928.0" y2="92.0" stroke-width="1" />
 <text class="mut cap" x="32.0" y="118.0" text-anchor="start" >TOKENS · 30D</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">625.7M</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">1.19B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">1.69B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">2.14B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">2.54B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">2.88B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">3.18B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">3.44B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">3.66B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">3.84B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">3.99B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">4.11B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">4.20B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">4.27B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">4.32B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">4.35B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">4.37B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">4.38B</text>
-<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">4.39B</text>
-<text class="fg kpi num cfin" x="32.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">4.39B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">648.7M</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">1.23B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">1.76B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">2.22B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">2.63B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">2.99B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">3.30B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">3.57B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">3.79B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">3.98B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">4.13B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">4.26B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">4.35B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">4.43B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">4.48B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">4.51B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">4.53B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">4.54B</text>
+<text class="fg kpi num cf" x="32.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">4.55B</text>
+<text class="fg kpi num cfin" x="32.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">4.55B</text>
 <line class="rule" x1="181.3" y1="104.0" x2="181.3" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="197.3" y="118.0" text-anchor="start" >EST. API COST · 30D</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">$269</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">$510</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">$727</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">$919</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">$1,089</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">$1,238</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">$1,366</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">$1,477</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">$1,570</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">$1,648</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">$1,712</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">$1,763</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">$1,803</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">$1,833</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">$1,854</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">$1,869</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">$1,877</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">$1,882</text>
-<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">$1,883</text>
-<text class="fg kpi num cfin" x="197.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">$1,884</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">$275</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">$523</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">$745</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">$942</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">$1,116</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">$1,268</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">$1,400</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">$1,513</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">$1,609</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">$1,689</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">$1,754</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">$1,806</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">$1,847</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">$1,878</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">$1,900</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">$1,914</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">$1,923</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">$1,928</text>
+<text class="fg kpi num cf" x="197.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">$1,930</text>
+<text class="fg kpi num cfin" x="197.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">$1,930</text>
 <line class="rule" x1="330.7" y1="104.0" x2="330.7" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="346.7" y="118.0" text-anchor="start" >DAILY AVG · 30D</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">20.9M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">39.6M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">56.4M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">71.4M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">84.5M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">96.1M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">106.1M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">114.6M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">121.9M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">128.0M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">132.9M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">136.9M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">140.0M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">142.3M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">143.9M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">145.1M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">145.7M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">146.1M</text>
-<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">146.2M</text>
-<text class="fg kpi num cfin" x="346.7" y="144.0" text-anchor="start" style="animation-duration:1330ms">146.2M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">21.6M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">41.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">58.5M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">74.0M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">87.7M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">99.6M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">110.0M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">118.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">126.4M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">132.7M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">137.8M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">141.9M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">145.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">147.5M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">149.2M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">150.4M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">151.1M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">151.5M</text>
+<text class="fg kpi num cf" x="346.7" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">151.6M</text>
+<text class="fg kpi num cfin" x="346.7" y="144.0" text-anchor="start" style="animation-duration:1330ms">151.6M</text>
 <line class="rule" x1="480.0" y1="104.0" x2="480.0" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="496.0" y="118.0" text-anchor="start" >ACTIVE DAYS</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">18</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">34</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">48</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">49</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">61</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">72</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">82</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">73</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">83</text>
 <text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">91</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">98</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">104</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">109</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">114</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">117</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">120</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">122</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">123</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">124</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">125</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">125</text>
-<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">125</text>
-<text class="fg kpi num cfin" x="496.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">125</text>
-<text class="faint xs" x="542.5" y="144.0" text-anchor="start" >/ 364</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">99</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">105</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">110</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">115</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">118</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">121</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">123</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">124</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">125</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">126</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">126</text>
+<text class="fg kpi num cf" x="496.0" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">126</text>
+<text class="fg kpi num cfin" x="496.0" y="144.0" text-anchor="start" style="animation-duration:1330ms">126</text>
+<text class="faint xs" x="542.5" y="144.0" text-anchor="start" >/ 365</text>
 <line class="rule" x1="629.3" y1="104.0" x2="629.3" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="645.3" y="118.0" text-anchor="start" >STREAK</text>
 <text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">15d</text>
 <text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:70ms;animation-duration:70ms">29d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">41d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">52d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:140ms;animation-duration:70ms">42d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:210ms;animation-duration:70ms">53d</text>
 <text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:280ms;animation-duration:70ms">62d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">70d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:350ms;animation-duration:70ms">71d</text>
 <text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:420ms;animation-duration:70ms">78d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">84d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">89d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:490ms;animation-duration:70ms">85d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:560ms;animation-duration:70ms">90d</text>
 <text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:630ms;animation-duration:70ms">94d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">97d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">100d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">102d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">104d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">105d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">106d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">107d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">107d</text>
-<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">107d</text>
-<text class="fg kpi num cfin" x="645.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">107d</text>
-<text class="faint xs" x="705.3" y="144.0" text-anchor="start" >best 107d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:700ms;animation-duration:70ms">98d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:770ms;animation-duration:70ms">101d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:840ms;animation-duration:70ms">103d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:910ms;animation-duration:70ms">105d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:980ms;animation-duration:70ms">106d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1050ms;animation-duration:70ms">107d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1120ms;animation-duration:70ms">108d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1190ms;animation-duration:70ms">108d</text>
+<text class="fg kpi num cf" x="645.3" y="144.0" text-anchor="start" style="animation-delay:1260ms;animation-duration:70ms">108d</text>
+<text class="fg kpi num cfin" x="645.3" y="144.0" text-anchor="start" style="animation-duration:1330ms">108d</text>
+<text class="faint xs" x="705.3" y="144.0" text-anchor="start" >best 108d</text>
 <line class="rule" x1="778.7" y1="104.0" x2="778.7" y2="148.0" stroke-width="1" />
 <text class="mut cap" x="794.7" y="118.0" text-anchor="start" >PEAK DAY · 30D</text>
 <text class="fg kpi num cf" x="794.7" y="144.0" text-anchor="start" style="animation-delay:0ms;animation-duration:70ms">53.3M</text>
@@ -205,10 +205,6 @@
 <rect class="px pr t-claude" x="81.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 <rect class="px pr t-claude" x="91.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 <rect class="px pr t-claude" x="81.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="91.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="81.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="91.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-codex" x="81.2" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="109.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -220,77 +216,75 @@
 <rect class="px pr t-claude" x="109.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 <rect class="px pr t-claude" x="119.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 <rect class="px pr t-claude" x="109.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="119.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="109.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="119.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="109.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="119.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="109.6" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="119.6" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="109.6" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="119.6" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="109.6" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="119.6" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="109.6" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="119.6" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="109.6" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-codex" x="119.6" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 </g>
-<text class="faint xs num" x="118.6" y="444.0" text-anchor="middle" >Oct 26</text>
+<text class="faint xs num" x="118.6" y="444.0" text-anchor="middle" >Oct 27</text>
 <g>
 <rect class="px pr t-claude" x="138.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="148.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="138.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
 <rect class="px pr t-claude" x="148.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
 <rect class="px pr t-claude" x="138.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="148.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="138.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="148.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="138.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="148.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="138.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="148.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="138.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="148.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="138.0" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="148.0" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="138.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="148.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="138.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="148.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="138.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="148.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="138.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-codex" x="148.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-codex" x="148.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-codex" x="138.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-codex" x="148.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-codex" x="138.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-codex" x="148.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-codex" x="138.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-codex" x="148.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="166.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="176.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="166.4" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="176.4" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="166.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-codex" x="176.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-codex" x="166.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-codex" x="176.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-codex" x="166.4" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-codex" x="176.4" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-codex" x="166.4" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-codex" x="176.4" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="194.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="204.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="194.8" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="204.8" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="194.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="204.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="194.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="204.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="194.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="204.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="194.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="204.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="194.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="223.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="233.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="223.2" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
 <rect class="px pr t-claude" x="233.2" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="223.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="233.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="223.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="233.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="223.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="233.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="223.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="233.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="223.2" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-cursor" x="223.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-cursor" x="233.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-cursor" x="223.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 </g>
 <g>
-<rect class="px pr t-claude" x="251.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="261.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="251.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="261.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-cursor" x="251.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-cursor" x="261.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-cursor" x="251.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-cursor" x="251.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 </g>
 <g>
-<rect class="px pr t-cursor" x="280.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="280.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="290.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="280.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="290.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="280.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="290.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="280.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="308.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -300,31 +294,48 @@
 <rect class="px pr t-claude" x="308.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-claude" x="318.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-claude" x="308.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="318.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-codex" x="308.4" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-codex" x="318.4" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-codex" x="308.4" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-codex" x="318.4" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
 </g>
-<text class="faint xs num" x="317.4" y="444.0" text-anchor="middle" >Nov 02</text>
+<text class="faint xs num" x="317.4" y="444.0" text-anchor="middle" >Nov 03</text>
 <g>
 <rect class="px pr t-claude" x="336.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="346.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="336.8" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="346.8" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="336.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="346.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="336.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="346.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-codex" x="336.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-codex" x="346.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-codex" x="336.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-codex" x="346.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
 </g>
 <g>
-<rect class="px pr t-claude" x="365.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="375.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-cursor" x="365.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 </g>
 <g>
 <rect class="px pr t-cursor" x="393.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 </g>
 <g>
-<rect class="px pr t-cursor" x="422.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="422.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="432.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="422.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="432.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="422.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="432.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="422.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="432.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="422.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="432.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="422.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="432.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="422.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="432.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="422.0" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="432.0" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="422.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="432.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="422.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="432.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="422.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="432.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="422.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-claude" x="432.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="450.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -351,6 +362,14 @@
 <rect class="px pr t-claude" x="460.4" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
 <rect class="px pr t-claude" x="450.4" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 <rect class="px pr t-claude" x="460.4" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-claude" x="450.4" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="460.4" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="450.4" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-claude" x="460.4" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-claude" x="450.4" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
+<rect class="px pr t-claude" x="460.4" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
+<rect class="px pr t-claude" x="450.4" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
+<rect class="px pr t-claude" x="460.4" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="478.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -380,11 +399,6 @@
 <rect class="px pr t-claude" x="478.8" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
 <rect class="px pr t-claude" x="488.8" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
 <rect class="px pr t-claude" x="478.8" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-claude" x="488.8" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-claude" x="478.8" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
-<rect class="px pr t-claude" x="488.8" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
-<rect class="px pr t-claude" x="478.8" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
-<rect class="px pr t-claude" x="488.8" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="507.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -412,10 +426,8 @@
 <rect class="px pr t-claude" x="507.2" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 <rect class="px pr t-claude" x="517.2" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 <rect class="px pr t-claude" x="507.2" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="517.2" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="507.2" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
 </g>
-<text class="faint xs num" x="516.2" y="444.0" text-anchor="middle" >Nov 09</text>
+<text class="faint xs num" x="516.2" y="444.0" text-anchor="middle" >Nov 10</text>
 <g>
 <rect class="px pr t-claude" x="535.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="545.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -442,6 +454,18 @@
 <rect class="px pr t-claude" x="535.6" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 <rect class="px pr t-claude" x="545.6" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
 <rect class="px pr t-claude" x="535.6" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="545.6" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="535.6" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-claude" x="545.6" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-claude" x="535.6" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
+<rect class="px pr t-claude" x="545.6" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
+<rect class="px pr t-claude" x="535.6" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
+<rect class="px pr t-claude" x="545.6" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
+<rect class="px pr t-claude" x="535.6" y="258.0" width="8" height="8" style="animation-delay:720ms"/>
+<rect class="px pr t-claude" x="545.6" y="258.0" width="8" height="8" style="animation-delay:720ms"/>
+<rect class="px pr t-claude" x="535.6" y="248.0" width="8" height="8" style="animation-delay:765ms"/>
+<rect class="px pr t-claude" x="545.6" y="248.0" width="8" height="8" style="animation-delay:765ms"/>
+<rect class="px pr t-claude" x="535.6" y="238.0" width="8" height="8" style="animation-delay:810ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="564.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -463,24 +487,6 @@
 <rect class="px pr t-claude" x="564.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
 <rect class="px pr t-claude" x="574.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
 <rect class="px pr t-claude" x="564.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="574.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="564.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="574.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="564.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-claude" x="574.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-claude" x="564.0" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="574.0" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="564.0" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-claude" x="574.0" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-claude" x="564.0" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
-<rect class="px pr t-claude" x="574.0" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
-<rect class="px pr t-claude" x="564.0" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
-<rect class="px pr t-claude" x="574.0" y="268.0" width="8" height="8" style="animation-delay:675ms"/>
-<rect class="px pr t-claude" x="564.0" y="258.0" width="8" height="8" style="animation-delay:720ms"/>
-<rect class="px pr t-claude" x="574.0" y="258.0" width="8" height="8" style="animation-delay:720ms"/>
-<rect class="px pr t-claude" x="564.0" y="248.0" width="8" height="8" style="animation-delay:765ms"/>
-<rect class="px pr t-claude" x="574.0" y="248.0" width="8" height="8" style="animation-delay:765ms"/>
-<rect class="px pr t-claude" x="564.0" y="238.0" width="8" height="8" style="animation-delay:810ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="592.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -502,6 +508,8 @@
 <rect class="px pr t-claude" x="592.4" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
 <rect class="px pr t-claude" x="602.4" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
 <rect class="px pr t-claude" x="592.4" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="602.4" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-cursor" x="592.4" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="620.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -511,20 +519,6 @@
 <rect class="px pr t-claude" x="620.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-claude" x="630.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-claude" x="620.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="630.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="620.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="630.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="620.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="630.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="620.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="630.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="620.8" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="630.8" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="620.8" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="630.8" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="620.8" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="630.8" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-cursor" x="620.8" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="649.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -534,54 +528,77 @@
 <rect class="px pr t-claude" x="649.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-claude" x="659.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-claude" x="649.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="659.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="649.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="659.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="649.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="659.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="649.2" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="659.2" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="649.2" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="659.2" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="649.2" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="659.2" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="649.2" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="659.2" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="649.2" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="659.2" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="649.2" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-claude" x="659.2" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-claude" x="649.2" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="659.2" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="649.2" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-cursor" x="659.2" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
 </g>
 <g>
-<rect class="px pr t-claude" x="677.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="687.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="677.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="687.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="677.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="687.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="677.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="687.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="677.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="687.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="677.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="687.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="677.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="687.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="677.6" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="687.6" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="677.6" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="687.6" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="677.6" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="687.6" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="677.6" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="687.6" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="677.6" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-claude" x="687.6" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-claude" x="677.6" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="687.6" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="677.6" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-cursor" x="687.6" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-codex" x="677.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-codex" x="687.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-codex" x="677.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-codex" x="687.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-codex" x="677.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-cursor" x="687.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-cursor" x="677.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-cursor" x="687.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-cursor" x="677.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-cursor" x="687.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-cursor" x="677.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-cursor" x="687.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-cursor" x="677.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-cursor" x="687.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 </g>
 <g>
-<rect class="px pr t-codex" x="706.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-codex" x="716.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-codex" x="706.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-codex" x="716.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-codex" x="706.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-cursor" x="716.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-cursor" x="706.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-cursor" x="716.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-cursor" x="706.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-cursor" x="716.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-cursor" x="706.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-cursor" x="716.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-cursor" x="706.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-cursor" x="716.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="706.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="716.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="706.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="716.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="706.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="716.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="706.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="716.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="706.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="716.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="706.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="716.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="706.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="716.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="706.0" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="716.0" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-claude" x="706.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="716.0" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-claude" x="706.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="716.0" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-claude" x="706.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="716.0" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-claude" x="706.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-claude" x="716.0" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
+<rect class="px pr t-claude" x="706.0" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="716.0" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
+<rect class="px pr t-claude" x="706.0" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-claude" x="716.0" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
+<rect class="px pr t-claude" x="706.0" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
+<rect class="px pr t-claude" x="716.0" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
 </g>
-<text class="faint xs num" x="715.0" y="444.0" text-anchor="middle" >Nov 16</text>
+<text class="faint xs num" x="715.0" y="444.0" text-anchor="middle" >Nov 17</text>
 <g>
 <rect class="px pr t-claude" x="734.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-claude" x="744.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -612,7 +629,6 @@
 <rect class="px pr t-claude" x="734.4" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
 <rect class="px pr t-claude" x="744.4" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
 <rect class="px pr t-claude" x="734.4" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
-<rect class="px pr t-claude" x="744.4" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="762.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
@@ -630,79 +646,80 @@
 <rect class="px pr t-claude" x="762.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 <rect class="px pr t-claude" x="772.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 <rect class="px pr t-claude" x="762.8" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="772.8" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
-<rect class="px pr t-claude" x="762.8" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="772.8" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
-<rect class="px pr t-claude" x="762.8" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="772.8" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
-<rect class="px pr t-claude" x="762.8" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="772.8" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
-<rect class="px pr t-claude" x="762.8" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-claude" x="772.8" y="308.0" width="8" height="8" style="animation-delay:495ms"/>
-<rect class="px pr t-claude" x="762.8" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="772.8" y="298.0" width="8" height="8" style="animation-delay:540ms"/>
-<rect class="px pr t-claude" x="762.8" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-claude" x="772.8" y="288.0" width="8" height="8" style="animation-delay:585ms"/>
-<rect class="px pr t-claude" x="762.8" y="278.0" width="8" height="8" style="animation-delay:630ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="791.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="801.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-claude" x="791.2" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="801.2" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-claude" x="791.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="801.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-claude" x="791.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="801.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-claude" x="791.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="801.2" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-claude" x="791.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="801.2" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-claude" x="791.2" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="801.2" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
-<rect class="px pr t-claude" x="791.2" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-codex" x="801.2" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-codex" x="791.2" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-codex" x="801.2" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-codex" x="791.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-codex" x="801.2" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-codex" x="791.2" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 </g>
 <g>
 <rect class="px pr t-claude" x="819.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-codex" x="829.6" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-codex" x="819.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-codex" x="829.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-codex" x="819.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-codex" x="829.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-codex" x="819.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-cursor" x="829.6" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-cursor" x="819.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-cursor" x="829.6" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-cursor" x="819.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-cursor" x="829.6" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-cursor" x="819.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-cursor" x="829.6" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-cursor" x="819.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-cursor" x="829.6" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-cursor" x="819.6" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 </g>
 <g>
-<rect class="px pr t-claude" x="848.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-codex" x="848.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-codex" x="858.0" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
 <rect class="px pr t-codex" x="848.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-cursor" x="858.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-cursor" x="848.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-codex" x="858.0" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-codex" x="848.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-cursor" x="858.0" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
 <rect class="px pr t-cursor" x="848.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
 <rect class="px pr t-cursor" x="858.0" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-cursor" x="848.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-cursor" x="858.0" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
-<rect class="px pr t-cursor" x="848.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-cursor" x="858.0" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
-<rect class="px pr t-cursor" x="848.0" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
 </g>
 <g>
-<rect class="px pr t-codex" x="876.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-codex" x="886.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-codex" x="876.4" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-codex" x="886.4" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
-<rect class="px pr t-codex" x="876.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-cursor" x="886.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
-<rect class="px pr t-cursor" x="876.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
-<rect class="px pr t-cursor" x="886.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="876.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="886.4" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="876.4" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="886.4" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="876.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="886.4" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="876.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="886.4" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-codex" x="876.4" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-cursor" x="886.4" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
 </g>
 <g class="wip">
-<rect class="px pr t-codex" x="904.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
-<rect class="px pr t-cursor" x="914.8" y="418.0" width="8" height="8" style="animation:pr .3s steps(3,end) 0ms both, blink 1.3s step-end 300ms infinite"/>
+<rect class="px pr t-claude" x="904.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="914.8" y="418.0" width="8" height="8" style="animation-delay:0ms"/>
+<rect class="px pr t-claude" x="904.8" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="914.8" y="408.0" width="8" height="8" style="animation-delay:45ms"/>
+<rect class="px pr t-claude" x="904.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="914.8" y="398.0" width="8" height="8" style="animation-delay:90ms"/>
+<rect class="px pr t-claude" x="904.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="914.8" y="388.0" width="8" height="8" style="animation-delay:135ms"/>
+<rect class="px pr t-claude" x="904.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="914.8" y="378.0" width="8" height="8" style="animation-delay:180ms"/>
+<rect class="px pr t-claude" x="904.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="914.8" y="368.0" width="8" height="8" style="animation-delay:225ms"/>
+<rect class="px pr t-claude" x="904.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-claude" x="914.8" y="358.0" width="8" height="8" style="animation-delay:270ms"/>
+<rect class="px pr t-codex" x="904.8" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-codex" x="914.8" y="348.0" width="8" height="8" style="animation-delay:315ms"/>
+<rect class="px pr t-codex" x="904.8" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-codex" x="914.8" y="338.0" width="8" height="8" style="animation-delay:360ms"/>
+<rect class="px pr t-codex" x="904.8" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-codex" x="914.8" y="328.0" width="8" height="8" style="animation-delay:405ms"/>
+<rect class="px pr t-codex" x="904.8" y="318.0" width="8" height="8" style="animation-delay:450ms"/>
+<rect class="px pr t-cursor" x="914.8" y="318.0" width="8" height="8" style="animation:pr .3s steps(3,end) 450ms both, blink 1.3s step-end 750ms infinite"/>
 </g>
-<text class="faint xs num" x="913.8" y="444.0" text-anchor="middle" >Nov 23</text>
-<text class="fg xs num b late" x="558.0" y="244.0" text-anchor="end" style="animation-delay:1155ms">374.0M</text>
-<text class="faint xs" x="928.0" y="222.0" text-anchor="end" >Today 23.0M · faded column is still accumulating</text>
+<text class="faint xs num" x="913.8" y="444.0" text-anchor="middle" >Nov 24</text>
+<text class="fg xs num b late" x="529.6" y="244.0" text-anchor="end" style="animation-delay:1155ms">374.0M</text>
+<text class="faint xs" x="928.0" y="222.0" text-anchor="end" >Today 217.7M · faded column is still accumulating</text>
 <line class="rule" x1="32.0" y1="460.0" x2="928.0" y2="460.0" stroke-width="1" />
 <text class="mut cap" x="32.0" y="492.0" text-anchor="start" >PLAN LIMITS</text>
 <text class="faint xs" x="928.0" y="492.0" text-anchor="end" >Remaining  ·  times = until reset  ·  tick = expected remaining at this point</text>
@@ -710,28 +727,28 @@
 <text class="fg s b" x="42.0" y="523.0" text-anchor="start" >Claude</text>
 <text class="mut xs" x="235.0" y="523.0" text-anchor="end" >Max 5x</text>
 <text class="mut xs" x="32.0" y="552.0" text-anchor="start" >Session</text>
-<text class="xs num" x="235.0" y="552.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 3h 19m</tspan></text>
+<text class="xs num" x="235.0" y="552.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 4h 59m</tspan></text>
 <rect x="32.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-claude" x="32.0" y="559.0" width="203.0" height="3" style="animation-delay:200ms"/>
-<rect class="tick late" x="167.3" y="557" width="1.5" height="7" style="animation-delay:1000ms"/>
+<rect class="tick late" x="234.2" y="557" width="1.5" height="7" style="animation-delay:1000ms"/>
 <text class="mut xs" x="32.0" y="582.0" text-anchor="start" >Weekly</text>
-<text class="xs num" x="235.0" y="582.0" text-anchor="end"><tspan class="fg b">95% left</tspan><tspan class="faint"> · 5d 21h</tspan></text>
+<text class="xs num" x="235.0" y="582.0" text-anchor="end"><tspan class="fg b">91% left</tspan><tspan class="faint"> · 4d 21h</tspan></text>
 <rect x="32.0" y="589.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-claude" x="32.0" y="589.0" width="192.8" height="3" style="animation-delay:290ms"/>
-<rect class="tick late" x="201.8" y="587" width="1.5" height="7" style="animation-delay:1000ms"/>
+<rect class="grow t-claude" x="32.0" y="589.0" width="184.7" height="3" style="animation-delay:290ms"/>
+<rect class="tick late" x="173.3" y="587" width="1.5" height="7" style="animation-delay:1000ms"/>
 <text class="mut xs" x="32.0" y="612.0" text-anchor="start" >Fable only</text>
-<text class="xs num" x="235.0" y="612.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 5d 21h</tspan></text>
+<text class="xs num" x="235.0" y="612.0" text-anchor="end"><tspan class="fg b">100% left</tspan><tspan class="faint"> · 4d 21h</tspan></text>
 <rect x="32.0" y="619.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-claude" x="32.0" y="619.0" width="203.0" height="3" style="animation-delay:380ms"/>
-<rect class="tick late" x="201.8" y="617" width="1.5" height="7" style="animation-delay:1000ms"/>
+<rect class="tick late" x="173.3" y="617" width="1.5" height="7" style="animation-delay:1000ms"/>
 <rect x="263.0" y="511.0" width="3.0" height="14.0" rx="0" class="t-codex"/>
 <text class="fg s b" x="273.0" y="523.0" text-anchor="start" >Codex</text>
 <text class="mut xs" x="466.0" y="523.0" text-anchor="end" >prolite</text>
 <text class="mut xs" x="263.0" y="552.0" text-anchor="start" >Weekly</text>
-<text class="xs num" x="466.0" y="552.0" text-anchor="end"><tspan class="fg b">98% left</tspan><tspan class="faint"> · 5d 14h</tspan></text>
+<text class="xs num" x="466.0" y="552.0" text-anchor="end"><tspan class="fg b">97% left</tspan><tspan class="faint"> · 4d 14h</tspan></text>
 <rect x="263.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-codex" x="263.0" y="559.0" width="198.9" height="3" style="animation-delay:320ms"/>
-<rect class="tick late" x="424.6" y="557" width="1.5" height="7" style="animation-delay:1120ms"/>
+<rect class="grow t-codex" x="263.0" y="559.0" width="196.9" height="3" style="animation-delay:320ms"/>
+<rect class="tick late" x="396.2" y="557" width="1.5" height="7" style="animation-delay:1120ms"/>
 <text class="mut xs" x="263.0" y="582.0" text-anchor="start" >Credits</text>
 <text class="fg xs num" x="466.0" y="582.0" text-anchor="end" >351 left</text>
 <text class="mut xs" x="263.0" y="612.0" text-anchor="start" >Reset credits</text>
@@ -740,41 +757,39 @@
 <text class="fg s b" x="504.0" y="523.0" text-anchor="start" >Cursor</text>
 <text class="mut xs" x="697.0" y="523.0" text-anchor="end" >Pro</text>
 <text class="mut xs" x="494.0" y="552.0" text-anchor="start" >Total</text>
-<text class="xs num" x="697.0" y="552.0" text-anchor="end"><tspan class="fg b">75% left</tspan><tspan class="faint"> · 13d 5h</tspan></text>
+<text class="xs num" x="697.0" y="552.0" text-anchor="end"><tspan class="fg b">74% left</tspan><tspan class="faint"> · 12d 5h</tspan></text>
 <rect x="494.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-cursor" x="494.0" y="559.0" width="152.2" height="3" style="animation-delay:440ms"/>
-<rect class="tick late" x="582.6" y="557" width="1.5" height="7" style="animation-delay:1240ms"/>
+<rect class="grow t-cursor" x="494.0" y="559.0" width="150.2" height="3" style="animation-delay:440ms"/>
+<rect class="tick late" x="576.5" y="557" width="1.5" height="7" style="animation-delay:1240ms"/>
 <text class="mut xs" x="494.0" y="582.0" text-anchor="start" >Cursor</text>
-<text class="xs num" x="697.0" y="582.0" text-anchor="end"><tspan class="fg b">76% left</tspan><tspan class="faint"> · 13d 5h</tspan></text>
+<text class="xs num" x="697.0" y="582.0" text-anchor="end"><tspan class="fg b">75% left</tspan><tspan class="faint"> · 12d 5h</tspan></text>
 <rect x="494.0" y="589.0" width="203.0" height="3.0" rx="0" class="track"/>
-<rect class="grow t-cursor" x="494.0" y="589.0" width="154.3" height="3" style="animation-delay:530ms"/>
-<rect class="tick late" x="582.6" y="587" width="1.5" height="7" style="animation-delay:1240ms"/>
+<rect class="grow t-cursor" x="494.0" y="589.0" width="152.2" height="3" style="animation-delay:530ms"/>
+<rect class="tick late" x="576.5" y="587" width="1.5" height="7" style="animation-delay:1240ms"/>
 <text class="mut xs" x="494.0" y="612.0" text-anchor="start" >Third Party</text>
-<text class="xs num" x="697.0" y="612.0" text-anchor="end"><tspan class="fg b">4% left</tspan><tspan class="faint"> · 13d 5h</tspan></text>
+<text class="xs num" x="697.0" y="612.0" text-anchor="end"><tspan class="fg b">4% left</tspan><tspan class="faint"> · 12d 5h</tspan></text>
 <rect x="494.0" y="619.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-cursor" x="494.0" y="619.0" width="8.1" height="3" style="animation-delay:620ms"/>
-<rect class="tick late" x="582.6" y="617" width="1.5" height="7" style="animation-delay:1240ms"/>
+<rect class="tick late" x="576.5" y="617" width="1.5" height="7" style="animation-delay:1240ms"/>
 <rect x="725.0" y="511.0" width="3.0" height="14.0" rx="0" class="t-openrouter"/>
 <text class="fg s b" x="735.0" y="523.0" text-anchor="start" >OpenRouter</text>
 <text class="mut xs" x="928.0" y="523.0" text-anchor="end" >Pay as you go</text>
 <text class="mut xs" x="725.0" y="552.0" text-anchor="start" >Credits</text>
-<text class="xs num" x="928.0" y="552.0" text-anchor="end"><tspan class="fg b">93% left</tspan><tspan class="faint"> · $71.09 left</tspan></text>
+<text class="xs num" x="928.0" y="552.0" text-anchor="end"><tspan class="fg b">93% left</tspan><tspan class="faint"> · $70.90 left</tspan></text>
 <rect x="725.0" y="559.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-openrouter" x="725.0" y="559.0" width="188.8" height="3" style="animation-delay:560ms"/>
 <text class="mut xs" x="725.0" y="582.0" text-anchor="start" >Key cap</text>
-<text class="xs num" x="928.0" y="582.0" text-anchor="end"><tspan class="fg b">93% left</tspan><tspan class="faint"> · $46.73 left</tspan></text>
+<text class="xs num" x="928.0" y="582.0" text-anchor="end"><tspan class="fg b">93% left</tspan><tspan class="faint"> · $46.54 left</tspan></text>
 <rect x="725.0" y="589.0" width="203.0" height="3.0" rx="0" class="track"/>
 <rect class="grow t-openrouter" x="725.0" y="589.0" width="188.8" height="3" style="animation-delay:650ms"/>
 <text class="mut xs" x="725.0" y="612.0" text-anchor="start" >This month</text>
-<text class="fg xs num" x="928.0" y="612.0" text-anchor="end" >$3.27 spent</text>
+<text class="fg xs num" x="928.0" y="612.0" text-anchor="end" >$3.46 spent</text>
 <line class="rule" x1="32.0" y1="668.0" x2="928.0" y2="668.0" stroke-width="1" />
 <text class="mut cap" x="32.0" y="702.0" text-anchor="start" >ACTIVITY · LAST 12 MONTHS</text>
-<text class="faint xs" x="928.0" y="702.0" text-anchor="end" >Tracking since Nov 25, 2025</text>
 <text class="faint xs" x="222.0" y="702.0" text-anchor="start" >Color = dominant tool  ·  Shade = daily volume</text>
 <text class="faint xs" x="91.0" y="757.0" text-anchor="end" >Mon</text>
 <text class="faint xs" x="91.0" y="787.0" text-anchor="end" >Wed</text>
 <text class="faint xs" x="91.0" y="817.0" text-anchor="end" >Fri</text>
-<rect x="99.0" y="747.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect x="99.0" y="762.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-cursor" x="99.0" y="762.0" width="12" height="12" rx="2" fill-opacity="1.00"/>
 <rect x="99.0" y="777.0" width="12.0" height="12.0" rx="2" class="empty"/>
@@ -1064,7 +1079,7 @@
 <rect x="654.0" y="747.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-cursor" x="654.0" y="747.0" width="12" height="12" rx="2" fill-opacity="1.00"/>
 <rect x="654.0" y="762.0" width="12.0" height="12.0" rx="2" class="empty"/>
-<rect class="heat t-codex" x="654.0" y="762.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
+<rect class="heat t-codex" x="654.0" y="762.0" width="12" height="12" rx="2" fill-opacity="0.55"/>
 <rect x="654.0" y="777.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-codex" x="654.0" y="777.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="654.0" y="792.0" width="12.0" height="12.0" rx="2" class="empty"/>
@@ -1267,7 +1282,7 @@
 <rect x="864.0" y="777.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-claude" x="864.0" y="777.0" width="12" height="12" rx="2" fill-opacity="1.00"/>
 <rect x="864.0" y="792.0" width="12.0" height="12.0" rx="2" class="empty"/>
-<rect class="heat t-claude" x="864.0" y="792.0" width="12" height="12" rx="2" fill-opacity="0.85"/>
+<rect class="heat t-claude" x="864.0" y="792.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="864.0" y="807.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-codex" x="864.0" y="807.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="864.0" y="822.0" width="12.0" height="12.0" rx="2" class="empty"/>
@@ -1275,13 +1290,15 @@
 <rect x="879.0" y="732.0" width="12.0" height="12.0" rx="2" class="empty"/>
 <rect class="heat t-codex" x="879.0" y="732.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
 <rect x="879.0" y="747.0" width="12.0" height="12.0" rx="2" class="empty"/>
-<rect class="heat t-codex" x="879.0" y="747.0" width="12" height="12" rx="2" fill-opacity="0.55"/>
+<rect class="heat t-claude" x="879.0" y="747.0" width="12" height="12" rx="2" fill-opacity="0.70"/>
+<rect x="879.0" y="762.0" width="12.0" height="12.0" rx="2" class="empty"/>
+<rect class="heat t-claude" x="879.0" y="762.0" width="12" height="12" rx="2" fill-opacity="0.85"/>
 <rect x="99.0" y="848.0" width="10.0" height="10.0" rx="2" class="t-claude"/>
-<text class="mut xs" x="114.0" y="857.0" text-anchor="start" >Claude  72d</text>
+<text class="mut xs" x="114.0" y="857.0" text-anchor="start" >Claude  74d</text>
 <rect x="217.0" y="848.0" width="10.0" height="10.0" rx="2" class="t-codex"/>
-<text class="mut xs" x="232.0" y="857.0" text-anchor="start" >Codex  84d</text>
+<text class="mut xs" x="232.0" y="857.0" text-anchor="start" >Codex  85d</text>
 <rect x="335.0" y="848.0" width="10.0" height="10.0" rx="2" class="t-cursor"/>
-<text class="mut xs" x="350.0" y="857.0" text-anchor="start" >Cursor  72d</text>
+<text class="mut xs" x="350.0" y="857.0" text-anchor="start" >Cursor  73d</text>
 <text class="faint xs" x="891.0" y="857.0" text-anchor="end" >More</text>
 <rect x="851.0" y="848.0" width="10.0" height="10.0" rx="2" class="mut" fill-opacity="1.00"/>
 <rect x="838.0" y="848.0" width="10.0" height="10.0" rx="2" class="mut" fill-opacity="0.85"/>
@@ -1289,5 +1306,5 @@
 <rect x="812.0" y="848.0" width="10.0" height="10.0" rx="2" class="mut" fill-opacity="0.55"/>
 <text class="faint xs" x="806.0" y="857.0" text-anchor="end" >Less</text>
 <line class="rule" x1="32.0" y1="883.0" x2="928.0" y2="883.0" stroke-width="1" />
-<text class="faint xs" x="32.0" y="905.0" text-anchor="start" >Updated 2026-11-23 12:41 UTC+8</text>
+<text class="faint xs" x="32.0" y="905.0" text-anchor="start" >Updated 2026-11-24 12:41 UTC+8</text>
 <text class="faint xs" x="928.0" y="905.0" text-anchor="end" >Tokens: Token Monitor + ccusage (servers)  ·  Limits: CodexBar  ·  Costs are API-equivalent estimates, not billed amounts</text></svg>
